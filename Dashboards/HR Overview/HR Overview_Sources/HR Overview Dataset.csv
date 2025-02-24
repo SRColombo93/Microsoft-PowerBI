@@ -1,0 +1,1001 @@
+﻿EmployeeID;EmploymentType;Department;Gender;AgeGroup;Education;JobRole;JobSatisfaction;Performance;WorkLifeBalance;HireDate;TerminationDate;Salary
+1;Full-time;Marketing;Female;30-40;Below College;Sales Executive;Very High;Excellent;Bad;27/04/2020;;96653,38
+2;Full-time;Finance;Male;30-40;Doctor;Manager;Low;Good;Bad;12/11/2020;;121236,76
+3;Full-time;Finance;Female;30-40;Bachelor;Manager;High;Excellent;Good;20/09/2020;13/05/2023;85435,69
+4;Full-time;Research & Development;Male;60+;College;Finance Director;Low;Low;Good;07/09/2023;;125841,42
+5;Full-time;Research & Development;Female;20-30;Bachelor;Research Scientist;Very High;Low;Best;17/05/2020;;97771,35
+6;Contractor;Research & Development;Male;20-30;Bachelor;Sales Executive;Medium;Outstanding;Good;09/12/2020;;126555,69
+7;Contractor;Marketing;Other;30-40;Below College;Manager;Very High;Good;Good;26/08/2021;;83549,72
+8;Full-time;Finance;Female;40-50;Bachelor;Manager;Medium;Outstanding;Bad;11/05/2020;;116355,05
+9;Full-time;Sales;Male;60+;College;HR Specialist;Medium;Outstanding;Bad;28/06/2020;;112473,17
+10;Contractor;HR;Male;20-30;Bachelor;HR Specialist;Low;Good;Bad;16/09/2020;;53204
+11;Contractor;IT;Female;60+;College;HR Specialist;Very High;Outstanding;Good;21/04/2020;;131015,88
+12;Contractor;IT;Female;60+;Below College;Research Scientist;Very High;Excellent;Good;09/05/2020;;100642,61
+13;Full-time;IT;Male;40-50;College;HR Specialist;Very High;Low;Better;08/01/2020;;75946,84
+14;Contractor;Research & Development;Female;20-30;Below College;IT Analyst;Very High;Excellent;Bad;24/01/2022;;101463,57
+15;Contractor;Sales;Male;Below 20;Master;Sales Executive;High;Low;Better;14/07/2020;;150030,42
+16;Contractor;Sales;Female;60+;College;Finance Director;Low;Outstanding;Better;02/12/2020;;139961,04
+17;Contractor;IT;Male;20-30;Master;Finance Director;Low;Excellent;Best;12/04/2020;;135126,31
+18;Full-time;Marketing;Male;40-50;College;HR Specialist;Very High;Good;Good;13/06/2020;;57585,61
+19;Contractor;Sales;Female;30-40;College;IT Analyst;High;Excellent;Bad;26/04/2020;;115994,34
+20;Contractor;Marketing;Female;30-40;Doctor;Sales Executive;Medium;Outstanding;Bad;28/05/2020;;135846,04
+21;Contractor;HR;Male;50-60;Doctor;HR Specialist;Low;Excellent;Bad;11/03/2020;01/03/2022;50740,05
+22;Contractor;Finance;Other;60+;Bachelor;IT Analyst;Very High;Good;Best;22/12/2020;15/07/2023;132996,16
+23;Contractor;Finance;Female;30-40;Below College;Sales Executive;Medium;Good;Better;27/02/2020;03/08/2022;59370,75
+24;Contractor;Sales;Male;20-30;Below College;Research Scientist;Medium;Excellent;Good;04/02/2020;;70911,91
+25;Contractor;Sales;Other;20-30;Master;Sales Executive;High;Excellent;Better;15/07/2020;;150412,34
+26;Full-time;HR;Male;30-40;College;Sales Executive;Low;Outstanding;Bad;04/01/2020;;117939,47
+27;Full-time;Sales;Female;30-40;Master;IT Analyst;Medium;Excellent;Bad;01/03/2020;06/01/2022;58064,6
+28;Full-time;Marketing;Female;Below 20;Doctor;IT Analyst;Very High;Low;Good;08/01/2020;05/08/2022;109552,02
+29;Contractor;IT;Male;40-50;College;HR Specialist;High;Outstanding;Better;14/12/2020;;127019,23
+30;Full-time;Marketing;Male;Below 20;Below College;Sales Executive;High;Good;Best;03/01/2020;;63116,73
+31;Full-time;HR;Male;40-50;Doctor;HR Specialist;Very High;Low;Bad;27/06/2020;01/06/2022;115268,2
+32;Full-time;Research & Development;Female;30-40;Master;IT Analyst;Low;Outstanding;Better;05/10/2020;03/06/2023;151640,92
+33;Contractor;Sales;Male;40-50;College;IT Analyst;Medium;Excellent;Good;14/01/2020;;76882,44
+34;Full-time;Finance;Female;20-30;Bachelor;Finance Director;High;Low;Bad;22/02/2020;;138317,65
+35;Contractor;HR;Male;40-50;Below College;Sales Executive;Medium;Low;Better;04/06/2020;30/03/2023;89090,97
+36;Contractor;Marketing;Female;60+;Bachelor;IT Analyst;Medium;Outstanding;Good;07/06/2020;;71836,23
+37;Contractor;Finance;Male;50-60;Doctor;Manager;Low;Outstanding;Bad;16/04/2020;;66913,86
+38;Contractor;IT;Male;60+;College;Manager;Medium;Good;Bad;22/08/2020;;133967,38
+39;Full-time;Finance;Male;60+;Master;Manager;Medium;Outstanding;Better;01/11/2020;;128268,93
+40;Full-time;Sales;Female;Below 20;Bachelor;Finance Director;Medium;Excellent;Best;02/09/2020;;101686,84
+41;Contractor;Marketing;Female;40-50;Bachelor;Research Scientist;High;Excellent;Better;17/03/2020;27/01/2023;96605,61
+42;Contractor;HR;Female;50-60;Below College;Manager;Medium;Excellent;Bad;25/01/2021;19/06/2022;71375,28
+43;Full-time;HR;Female;Below 20;College;Sales Executive;Very High;Excellent;Good;10/02/2020;;123263,7
+44;Contractor;Marketing;Female;Below 20;Bachelor;Manager;Medium;Outstanding;Good;24/02/2020;24/07/2021;110076,19
+45;Full-time;Research & Development;Female;60+;Doctor;IT Analyst;Very High;Low;Bad;12/01/2020;;132243,45
+46;Full-time;Marketing;Male;Below 20;Below College;Research Scientist;Low;Excellent;Good;02/10/2020;;115513,79
+47;Full-time;Sales;Male;40-50;College;Sales Executive;Very High;Low;Best;23/10/2020;30/01/2022;86917,58
+48;Contractor;Finance;Male;40-50;Bachelor;IT Analyst;Medium;Outstanding;Best;07/09/2023;;112150,73
+49;Contractor;Research & Development;Female;20-30;Below College;HR Specialist;High;Outstanding;Good;26/12/2021;;162516,57
+50;Full-time;Finance;Male;40-50;Below College;IT Analyst;Medium;Good;Better;11/04/2020;;68263,56
+51;Full-time;Finance;Female;Below 20;Master;HR Specialist;Medium;Excellent;Bad;24/02/2020;19/09/2021;75089
+52;Contractor;Sales;Female;30-40;Master;IT Analyst;Low;Good;Bad;14/05/2020;23/07/2021;122590,44
+53;Contractor;Finance;Female;40-50;College;Sales Executive;Low;Low;Bad;15/10/2021;26/03/2023;140948,17
+54;Full-time;Marketing;Male;30-40;Bachelor;Research Scientist;Very High;Low;Better;07/11/2020;;94035,98
+55;Full-time;IT;Other;60+;Bachelor;Sales Executive;Very High;Excellent;Better;15/02/2020;12/11/2022;154533,31
+56;Full-time;Finance;Female;20-30;Below College;Manager;Low;Outstanding;Good;20/01/2022;;135403,35
+57;Full-time;Sales;Other;40-50;College;Research Scientist;Very High;Excellent;Good;09/08/2020;16/08/2022;151579,31
+58;Contractor;Research & Development;Female;30-40;Below College;Research Scientist;Low;Outstanding;Better;10/06/2020;;169456,19
+59;Full-time;HR;Female;50-60;Bachelor;Sales Executive;Medium;Outstanding;Good;01/08/2020;25/12/2021;134011,54
+60;Full-time;Marketing;Female;30-40;Below College;Sales Executive;Medium;Low;Best;21/05/2020;;121503,38
+61;Contractor;HR;Male;20-30;Doctor;IT Analyst;Very High;Excellent;Best;17/05/2020;;87829,95
+62;Contractor;HR;Female;20-30;Bachelor;IT Analyst;High;Low;Bad;22/01/2022;03/04/2021;119418,26
+63;Full-time;Sales;Male;50-60;Bachelor;IT Analyst;High;Excellent;Good;19/08/2020;27/02/2023;104730,99
+64;Full-time;Research & Development;Female;50-60;College;Finance Director;Low;Good;Best;13/05/2020;27/07/2021;163049,37
+65;Full-time;Finance;Male;Below 20;College;IT Analyst;Very High;Outstanding;Best;09/07/2020;;55513,08
+66;Contractor;Research & Development;Other;Below 20;Bachelor;IT Analyst;High;Good;Bad;22/09/2020;;69520,23
+67;Full-time;Marketing;Male;50-60;Below College;Finance Director;Low;Low;Better;09/05/2020;;98579,59
+68;Contractor;Sales;Male;30-40;Bachelor;Manager;Very High;Low;Bad;22/08/2020;;59042,4
+69;Contractor;Sales;Female;50-60;Doctor;HR Specialist;Very High;Low;Best;09/11/2020;;70655,22
+70;Contractor;Marketing;Male;50-60;Below College;Research Scientist;Medium;Good;Good;12/09/2020;23/06/2022;112702,4
+71;Full-time;IT;Male;40-50;Below College;IT Analyst;Medium;Good;Bad;07/02/2020;11/05/2021;146510,97
+72;Full-time;Finance;Female;40-50;College;Sales Executive;Low;Low;Best;10/08/2020;;80950,01
+73;Contractor;HR;Male;60+;Bachelor;HR Specialist;High;Low;Good;03/02/2020;04/12/2021;124876,78
+74;Contractor;HR;Other;60+;Bachelor;HR Specialist;Very High;Excellent;Bad;23/05/2020;;117000,95
+75;Contractor;Research & Development;Male;20-30;Doctor;HR Specialist;Low;Low;Best;28/12/2020;14/08/2023;96665,46
+76;Full-time;IT;Male;60+;Bachelor;IT Analyst;Medium;Excellent;Good;15/07/2020;;134139,19
+77;Contractor;Finance;Female;60+;Master;Finance Director;Low;Low;Good;16/12/2020;;123330,19
+78;Contractor;Research & Development;Female;40-50;Below College;Research Scientist;Very High;Outstanding;Best;27/09/2020;;160164,48
+79;Contractor;Finance;Female;50-60;Doctor;HR Specialist;Very High;Excellent;Better;27/05/2020;15/08/2022;106360,3
+80;Full-time;IT;Male;60+;College;HR Specialist;High;Excellent;Better;25/08/2020;16/03/2022;94233,01
+81;Contractor;Research & Development;Female;20-30;Doctor;Sales Executive;Medium;Low;Best;06/06/2020;;110916,18
+82;Full-time;Sales;Male;40-50;College;Sales Executive;Low;Outstanding;Bad;05/07/2020;08/02/2023;143419,5
+83;Contractor;Marketing;Female;Below 20;Below College;Finance Director;Low;Low;Bad;15/08/2020;;76039,84
+84;Full-time;Marketing;Male;20-30;Bachelor;Finance Director;High;Excellent;Better;15/12/2020;;106311,41
+85;Full-time;Sales;Male;60+;Master;Finance Director;Low;Excellent;Best;26/01/2020;;93503,41
+86;Full-time;Sales;Male;20-30;Master;Manager;Low;Outstanding;Bad;27/12/2020;;101522,1
+87;Contractor;IT;Female;40-50;Master;Finance Director;High;Low;Better;06/02/2020;31/01/2022;104828,07
+88;Contractor;Finance;Other;30-40;Master;Sales Executive;Very High;Low;Best;05/03/2020;13/06/2021;78494,83
+89;Full-time;Finance;Male;20-30;Bachelor;Manager;High;Excellent;Better;22/02/2020;;68724,99
+90;Full-time;Research & Development;Male;40-50;Below College;Research Scientist;Very High;Low;Bad;12/10/2020;;157991,44
+91;Contractor;Research & Development;Female;40-50;Bachelor;Finance Director;Medium;Low;Bad;09/12/2020;;97941,49
+92;Full-time;Marketing;Female;30-40;Bachelor;Research Scientist;Low;Excellent;Best;26/12/2021;;72809,33
+93;Contractor;HR;Male;Below 20;College;Finance Director;Very High;Outstanding;Better;24/04/2020;;54106,54
+94;Full-time;HR;Female;50-60;Doctor;Research Scientist;Very High;Outstanding;Best;12/01/2020;;96703,67
+95;Full-time;Research & Development;Female;30-40;Below College;Sales Executive;Very High;Excellent;Better;17/04/2020;;134575,67
+96;Contractor;IT;Female;60+;Doctor;Sales Executive;Low;Low;Good;01/04/2020;;100408,5
+97;Contractor;Research & Development;Male;Below 20;Bachelor;Research Scientist;Medium;Low;Good;21/09/2020;;152130,81
+98;Contractor;IT;Female;20-30;College;Finance Director;High;Outstanding;Better;21/05/2020;;153057,08
+99;Full-time;Marketing;Female;60+;Doctor;Research Scientist;Low;Good;Good;14/11/2020;;90042,42
+100;Full-time;Sales;Female;30-40;College;IT Analyst;Very High;Good;Better;19/02/2020;;131377,48
+101;Full-time;Sales;Female;40-50;Below College;Sales Executive;High;Good;Better;19/03/2020;;72655,93
+102;Full-time;IT;Female;60+;Bachelor;Finance Director;Low;Excellent;Good;14/05/2020;;107511,95
+103;Contractor;HR;Male;40-50;Bachelor;Research Scientist;Very High;Good;Better;27/09/2020;01/05/2022;86520,95
+104;Contractor;Marketing;Male;20-30;Below College;HR Specialist;Very High;Excellent;Good;25/04/2020;;58167,53
+105;Full-time;HR;Other;60+;Below College;Finance Director;Very High;Excellent;Good;26/12/2021;;58168,16
+106;Contractor;Research & Development;Male;30-40;Doctor;HR Specialist;Very High;Low;Good;04/01/2020;24/07/2022;126138,43
+107;Full-time;IT;Female;20-30;Master;Sales Executive;Very High;Good;Good;12/01/2020;;178629,75
+108;Contractor;IT;Male;20-30;Doctor;Sales Executive;High;Good;Good;18/03/2020;;114160,23
+109;Contractor;Finance;Female;60+;Below College;Finance Director;Very High;Low;Better;14/02/2020;;78853,67
+110;Contractor;Sales;Female;Below 20;Master;Research Scientist;Very High;Low;Good;17/04/2020;;132178,34
+111;Contractor;Marketing;Male;40-50;Below College;Manager;Very High;Excellent;Better;25/11/2020;;68812,54
+112;Full-time;Marketing;Female;30-40;College;Finance Director;Medium;Excellent;Bad;14/02/2020;;118126,72
+113;Contractor;Research & Development;Male;50-60;Master;Sales Executive;Low;Excellent;Best;07/12/2020;24/02/2023;68855,19
+114;Full-time;Sales;Female;30-40;College;IT Analyst;Very High;Excellent;Bad;13/05/2020;11/10/2021;109964,55
+115;Contractor;Research & Development;Male;30-40;Doctor;Finance Director;Low;Good;Good;26/09/2020;10/12/2021;144530,97
+116;Contractor;Finance;Male;Below 20;Doctor;IT Analyst;Very High;Low;Bad;13/02/2020;;93093,65
+117;Contractor;Sales;Female;20-30;College;Finance Director;Low;Excellent;Better;27/04/2020;;157296,49
+118;Contractor;HR;Female;40-50;Bachelor;IT Analyst;Low;Low;Bad;05/04/2020;13/10/2022;97376,42
+119;Full-time;Research & Development;Male;40-50;College;Finance Director;Very High;Outstanding;Good;04/06/2020;27/05/2023;156815,1
+120;Contractor;Marketing;Female;40-50;Master;Manager;Low;Outstanding;Better;24/06/2020;;113817,11
+121;Full-time;Research & Development;Female;40-50;Bachelor;IT Analyst;Very High;Outstanding;Good;28/07/2020;;134360,29
+122;Full-time;Sales;Male;50-60;Doctor;Manager;Medium;Low;Best;24/07/2020;;72269,49
+123;Full-time;IT;Male;50-60;Master;Manager;High;Good;Bad;28/10/2020;13/03/2022;172476,88
+124;Contractor;Sales;Female;30-40;Bachelor;Finance Director;Medium;Low;Best;25/09/2020;;91951,15
+125;Full-time;Finance;Female;50-60;College;Manager;Medium;Excellent;Better;27/11/2020;12/11/2022;132335,34
+126;Contractor;IT;Male;50-60;Master;IT Analyst;Medium;Low;Best;05/01/2020;17/11/2022;149126,67
+127;Full-time;IT;Male;30-40;Bachelor;Research Scientist;Low;Good;Best;25/08/2020;15/06/2022;107119,09
+128;Full-time;HR;Female;30-40;Doctor;Research Scientist;High;Outstanding;Best;14/03/2020;07/10/2021;116083,91
+129;Full-time;Sales;Male;60+;Doctor;IT Analyst;Low;Excellent;Better;13/03/2020;;59450,62
+130;Contractor;IT;Female;40-50;Doctor;IT Analyst;Medium;Excellent;Bad;08/09/2023;;170230,16
+131;Full-time;IT;Female;40-50;Master;Sales Executive;Very High;Outstanding;Better;06/07/2020;06/03/2022;118327,27
+132;Full-time;Research & Development;Male;60+;Bachelor;Research Scientist;Very High;Low;Bad;05/09/2020;;127887,22
+133;Full-time;Sales;Other;20-30;Below College;HR Specialist;Very High;Low;Bad;05/12/2020;;148032,21
+134;Full-time;Marketing;Female;60+;College;Manager;Medium;Outstanding;Good;26/11/2020;;53291,21
+135;Contractor;Finance;Male;20-30;College;IT Analyst;High;Good;Best;28/09/2020;;98310,35
+136;Full-time;IT;Female;50-60;Bachelor;Manager;Very High;Excellent;Bad;17/09/2020;02/12/2022;176575,25
+137;Contractor;IT;Female;60+;College;Sales Executive;Medium;Excellent;Bad;16/04/2020;;161392,44
+138;Full-time;Research & Development;Other;Below 20;College;Sales Executive;Medium;Outstanding;Best;25/08/2021;10/05/2023;111681,38
+139;Full-time;Sales;Female;50-60;Bachelor;Manager;Low;Low;Good;19/01/2021;;70352,53
+140;Contractor;Marketing;Male;60+;Doctor;IT Analyst;Very High;Good;Bad;18/01/2021;;98179,08
+141;Full-time;Sales;Male;40-50;College;Manager;Very High;Outstanding;Good;24/08/2020;;130541,45
+142;Full-time;Sales;Male;40-50;College;Finance Director;High;Good;Best;17/11/2020;21/10/2023;89432,37
+143;Contractor;Marketing;Male;30-40;Doctor;Finance Director;High;Excellent;Bad;09/11/2020;;76850,59
+144;Contractor;Research & Development;Male;20-30;Bachelor;Manager;Low;Low;Better;27/02/2020;;101300,93
+145;Full-time;IT;Female;40-50;Doctor;Manager;Medium;Excellent;Good;12/03/2020;;63626,47
+146;Full-time;IT;Female;30-40;Bachelor;Manager;High;Excellent;Good;07/07/2020;;95971,41
+147;Full-time;IT;Other;50-60;Below College;HR Specialist;High;Excellent;Better;15/08/2020;;96332,61
+148;Contractor;Sales;Female;30-40;Below College;Research Scientist;Medium;Low;Bad;23/02/2020;06/05/2022;94987,31
+149;Full-time;Finance;Male;50-60;Below College;Manager;Very High;Good;Best;18/12/2020;;73599,68
+150;Full-time;Finance;Male;30-40;Master;Research Scientist;Low;Good;Bad;19/08/2020;21/12/2021;99639,01
+151;Contractor;Finance;Female;50-60;Bachelor;Research Scientist;High;Outstanding;Best;01/07/2020;;116188,98
+152;Contractor;IT;Other;Below 20;College;Research Scientist;High;Outstanding;Best;08/08/2020;;130902,31
+153;Contractor;Research & Development;Female;50-60;Below College;Research Scientist;Low;Good;Bad;07/08/2020;;135357,16
+154;Full-time;Sales;Male;40-50;Doctor;IT Analyst;Very High;Excellent;Best;23/06/2020;;153824,04
+155;Contractor;Marketing;Male;20-30;College;Research Scientist;High;Good;Better;01/06/2020;;51787,42
+156;Contractor;Marketing;Male;60+;College;Research Scientist;Medium;Low;Better;05/01/2020;;69806,42
+157;Full-time;Research & Development;Female;Below 20;Doctor;Manager;High;Low;Bad;12/10/2021;;110235,53
+158;Contractor;HR;Female;20-30;Doctor;Research Scientist;High;Excellent;Best;25/09/2020;;118378,09
+159;Contractor;Finance;Male;20-30;Master;Sales Executive;Very High;Good;Better;12/09/2020;;96202,67
+160;Contractor;HR;Female;Below 20;Master;HR Specialist;Low;Outstanding;Bad;06/08/2020;13/07/2022;64415,23
+161;Contractor;IT;Male;30-40;Doctor;Manager;High;Outstanding;Good;24/10/2020;;177610,31
+162;Contractor;Finance;Male;Below 20;Bachelor;Manager;Very High;Low;Bad;12/10/2020;;99353,64
+163;Full-time;Finance;Male;20-30;College;Manager;Very High;Low;Bad;06/07/2020;31/08/2022;140085,33
+164;Contractor;HR;Male;40-50;Bachelor;IT Analyst;Very High;Low;Better;17/02/2020;;80747,23
+165;Full-time;Sales;Female;60+;Bachelor;IT Analyst;Very High;Outstanding;Best;02/09/2020;;149469,42
+166;Contractor;Marketing;Male;Below 20;Doctor;Manager;Low;Excellent;Bad;02/11/2020;;48326,62
+167;Contractor;Marketing;Female;60+;Master;Finance Director;Very High;Excellent;Bad;16/09/2020;;57446,59
+168;Contractor;Sales;Male;40-50;Below College;Sales Executive;Very High;Excellent;Bad;12/04/2020;;117758,29
+169;Full-time;Research & Development;Female;Below 20;Below College;HR Specialist;Very High;Outstanding;Best;20/04/2020;;128655,46
+170;Full-time;Research & Development;Female;60+;Bachelor;IT Analyst;Medium;Excellent;Good;19/09/2020;;84330,53
+171;Contractor;Finance;Female;30-40;Master;Research Scientist;Very High;Low;Best;01/04/2020;21/11/2021;72186,1
+172;Contractor;IT;Male;60+;Doctor;Research Scientist;Medium;Good;Bad;14/05/2020;30/01/2022;83361,06
+173;Contractor;Research & Development;Male;20-30;College;IT Analyst;High;Good;Good;23/10/2020;;171225,47
+174;Full-time;IT;Male;50-60;Below College;IT Analyst;Medium;Good;Best;04/03/2020;;113202,1
+175;Contractor;Marketing;Other;Below 20;Master;Finance Director;Very High;Good;Good;12/09/2020;18/12/2022;95207,06
+176;Full-time;IT;Female;60+;College;Sales Executive;Medium;Low;Best;12/03/2020;;172822,13
+177;Full-time;Research & Development;Male;30-40;Bachelor;Research Scientist;Very High;Outstanding;Better;22/04/2020;;86298,69
+178;Contractor;Sales;Other;Below 20;Below College;Research Scientist;Low;Outstanding;Bad;28/02/2020;;107049,69
+179;Full-time;Finance;Male;30-40;Master;Sales Executive;Low;Excellent;Best;08/06/2020;;137074,74
+180;Full-time;IT;Male;Below 20;College;Sales Executive;Medium;Outstanding;Good;15/02/2020;;99331,23
+181;Full-time;Marketing;Male;Below 20;Master;Finance Director;Very High;Good;Best;17/05/2020;;135452,29
+182;Contractor;IT;Female;60+;Doctor;HR Specialist;High;Outstanding;Bad;08/07/2020;;111398,51
+183;Full-time;HR;Male;40-50;College;HR Specialist;Very High;Low;Bad;18/11/2020;07/07/2023;100966,42
+184;Full-time;Sales;Other;Below 20;Master;Research Scientist;Low;Outstanding;Better;11/03/2020;;155925,85
+185;Full-time;Marketing;Male;60+;Doctor;Research Scientist;High;Good;Bad;12/01/2020;;97779,21
+186;Full-time;Research & Development;Male;Below 20;Below College;Finance Director;Low;Good;Bad;03/05/2020;;69353,03
+187;Full-time;Finance;Male;30-40;College;HR Specialist;Medium;Excellent;Good;19/09/2020;;87475,78
+188;Full-time;Finance;Male;20-30;Master;HR Specialist;Medium;Low;Better;07/05/2020;;146941,23
+189;Contractor;IT;Male;20-30;Doctor;Sales Executive;Very High;Excellent;Better;16/06/2020;05/06/2022;155284,44
+190;Contractor;Sales;Female;50-60;College;Manager;Low;Excellent;Best;19/10/2021;;66148,97
+191;Contractor;IT;Female;Below 20;Master;Manager;Medium;Excellent;Good;07/02/2020;;173962,67
+192;Full-time;Sales;Female;40-50;Master;Sales Executive;Very High;Outstanding;Better;28/06/2020;;70721,89
+193;Contractor;HR;Male;Below 20;Below College;Finance Director;Medium;Good;Good;03/10/2020;18/07/2022;130833,08
+194;Full-time;IT;Female;20-30;College;Finance Director;Low;Good;Good;18/06/2020;;122631,73
+195;Full-time;IT;Other;30-40;College;HR Specialist;Very High;Outstanding;Good;22/03/2020;;117237,1
+196;Full-time;IT;Male;30-40;Bachelor;HR Specialist;High;Low;Best;18/11/2020;;164303,01
+197;Full-time;IT;Female;20-30;Bachelor;IT Analyst;Medium;Low;Best;02/12/2020;19/05/2023;79295,39
+198;Full-time;Sales;Female;Below 20;Bachelor;Manager;Medium;Good;Better;25/02/2020;;121069,31
+199;Full-time;Research & Development;Female;30-40;Bachelor;Manager;High;Excellent;Best;11/11/2020;;142776,39
+200;Full-time;Sales;Female;50-60;Master;Research Scientist;Medium;Good;Bad;09/07/2020;20/11/2021;129408,7
+201;Contractor;IT;Male;20-30;College;Manager;Low;Good;Good;24/08/2021;;71739,38
+202;Contractor;Finance;Other;20-30;Below College;Finance Director;High;Excellent;Better;23/01/2021;06/09/2023;126348,99
+203;Full-time;Sales;Other;40-50;Below College;Manager;Very High;Good;Good;20/08/2021;;142458,01
+204;Full-time;IT;Other;60+;Bachelor;Sales Executive;Low;Low;Better;23/03/2021;23/01/2023;132088,29
+205;Full-time;Finance;Female;Below 20;Master;Sales Executive;Low;Good;Bad;28/10/2021;04/10/2023;95212,86
+206;Contractor;Research & Development;Male;Below 20;Master;Manager;Low;Outstanding;Better;19/07/2021;;135687,96
+207;Full-time;HR;Other;40-50;College;Finance Director;Low;Low;Better;22/04/2021;28/03/2024;57506,31
+208;Full-time;HR;Female;60+;Doctor;Research Scientist;Low;Good;Best;11/04/2021;;141069,37
+209;Contractor;Marketing;Male;40-50;Bachelor;Manager;Low;Excellent;Better;27/05/2021;22/12/2023;57951,92
+210;Full-time;Research & Development;Male;30-40;Master;Manager;Low;Low;Best;09/10/2021;;105837,8
+211;Full-time;IT;Female;40-50;Master;Research Scientist;Low;Outstanding;Good;02/11/2021;08/09/2023;64382,6
+212;Contractor;Sales;Female;60+;Master;Finance Director;High;Good;Best;09/01/2021;;125221,23
+213;Full-time;Finance;Female;60+;Bachelor;Manager;High;Good;Better;21/11/2021;23/06/2023;151845,56
+214;Full-time;Finance;Other;60+;Doctor;Research Scientist;Medium;Good;Bad;10/01/2021;;115712,73
+215;Contractor;Research & Development;Male;50-60;Bachelor;HR Specialist;High;Outstanding;Good;01/06/2021;;76989
+216;Full-time;IT;Male;40-50;Doctor;IT Analyst;High;Good;Best;04/10/2021;;167483,72
+217;Full-time;Marketing;Female;40-50;College;Sales Executive;High;Outstanding;Better;17/10/2022;;148857,46
+218;Full-time;IT;Female;40-50;Doctor;Finance Director;Medium;Good;Good;20/11/2021;;154949
+219;Contractor;IT;Female;40-50;Below College;Manager;Medium;Outstanding;Bad;03/12/2021;;103634,54
+220;Full-time;Sales;Male;40-50;Master;Finance Director;High;Good;Good;20/12/2021;;150938,8
+221;Full-time;Finance;Male;30-40;Below College;HR Specialist;Low;Good;Good;04/04/2021;26/03/2024;83679,05
+222;Contractor;Marketing;Male;20-30;Below College;Manager;Medium;Low;Bad;06/03/2021;16/01/2023;103837,75
+223;Full-time;HR;Male;40-50;Doctor;HR Specialist;High;Good;Better;10/07/2021;10/10/2023;78256,25
+224;Full-time;HR;Other;50-60;Below College;Manager;Medium;Good;Bad;07/08/2021;15/02/2023;119604,96
+225;Contractor;HR;Female;40-50;Master;HR Specialist;Very High;Good;Bad;13/08/2021;;79384,26
+226;Contractor;Research & Development;Male;30-40;Bachelor;Finance Director;High;Excellent;Bad;18/01/2021;;149452,7
+227;Full-time;Finance;Male;Below 20;Doctor;HR Specialist;Low;Excellent;Best;13/10/2021;;156190,14
+228;Contractor;Finance;Female;30-40;Bachelor;Finance Director;Low;Good;Good;14/04/2021;;76817,74
+229;Contractor;IT;Female;60+;Below College;Finance Director;High;Good;Bad;06/03/2021;;155428,65
+230;Contractor;Research & Development;Female;30-40;College;Research Scientist;Very High;Excellent;Better;17/09/2021;;70024,58
+231;Contractor;Research & Development;Male;60+;Below College;Manager;High;Low;Best;11/11/2021;;123404,55
+232;Contractor;Marketing;Female;30-40;College;HR Specialist;Very High;Excellent;Better;24/02/2021;;57995,21
+233;Contractor;IT;Male;60+;College;Research Scientist;Very High;Excellent;Bad;19/10/2021;;99230,92
+234;Contractor;Finance;Male;30-40;Doctor;HR Specialist;Medium;Outstanding;Good;07/12/2021;;133262,26
+235;Contractor;HR;Male;40-50;Doctor;HR Specialist;Low;Outstanding;Best;12/05/2021;;52842,73
+236;Full-time;IT;Female;60+;Master;IT Analyst;Low;Low;Better;03/08/2021;02/03/2023;167852,75
+237;Full-time;Marketing;Female;40-50;College;Manager;Very High;Good;Better;28/04/2021;09/07/2023;111647,88
+238;Contractor;Research & Development;Female;30-40;Below College;Manager;Medium;Good;Bad;13/09/2021;;148506,73
+239;Full-time;Sales;Other;50-60;Doctor;Research Scientist;High;Good;Best;15/06/2021;;58581,15
+240;Full-time;HR;Female;20-30;Bachelor;Sales Executive;High;Good;Bad;04/05/2021;23/10/2023;60301,05
+241;Contractor;Research & Development;Male;40-50;College;Finance Director;Very High;Low;Bad;11/08/2021;;145471,63
+242;Contractor;Finance;Male;30-40;Bachelor;Research Scientist;Very High;Outstanding;Good;14/07/2021;30/08/2022;64514,7
+243;Full-time;Marketing;Male;50-60;Doctor;Manager;Very High;Good;Better;19/02/2021;10/04/2023;55653,55
+244;Full-time;Research & Development;Female;Below 20;Master;Sales Executive;Medium;Good;Best;11/04/2021;19/02/2024;176114,73
+245;Full-time;HR;Male;50-60;Bachelor;Sales Executive;High;Low;Best;06/10/2021;25/01/2023;121889,08
+246;Full-time;Research & Development;Male;40-50;Bachelor;Research Scientist;High;Excellent;Good;13/03/2021;;121517,41
+247;Full-time;Research & Development;Female;20-30;Bachelor;Manager;Medium;Excellent;Best;06/10/2021;14/07/2024;179822,88
+248;Full-time;Research & Development;Female;30-40;Master;IT Analyst;Very High;Low;Better;17/11/2021;;100235,42
+249;Contractor;HR;Female;30-40;Doctor;HR Specialist;Very High;Excellent;Better;08/01/2021;20/02/2023;67131,65
+250;Full-time;Marketing;Female;30-40;College;HR Specialist;High;Outstanding;Good;24/12/2021;01/10/2023;96306,88
+251;Full-time;HR;Other;60+;Below College;IT Analyst;Very High;Good;Best;20/01/2021;;139034,07
+252;Full-time;Sales;Female;20-30;College;Manager;Medium;Outstanding;Best;17/06/2021;;98142,58
+253;Full-time;Research & Development;Male;30-40;College;Manager;Very High;Low;Best;23/12/2021;;136604,5
+254;Full-time;Sales;Female;60+;Master;Finance Director;Very High;Excellent;Better;07/11/2021;15/08/2024;128846,6
+255;Contractor;Marketing;Female;60+;Master;Sales Executive;Very High;Low;Best;04/06/2021;;134399,32
+256;Full-time;Research & Development;Female;50-60;Bachelor;Research Scientist;Very High;Good;Best;18/06/2021;;89722,12
+257;Contractor;Finance;Female;60+;College;HR Specialist;High;Outstanding;Best;06/01/2021;12/09/2023;87027,5
+258;Contractor;Sales;Female;30-40;College;Manager;High;Good;Better;09/02/2021;;58252,24
+259;Contractor;Sales;Female;30-40;Bachelor;Research Scientist;Medium;Good;Best;22/03/2021;;95155,6
+260;Full-time;Marketing;Female;40-50;Bachelor;Sales Executive;High;Outstanding;Better;06/11/2021;;61413,32
+261;Full-time;Marketing;Female;Below 20;Bachelor;Finance Director;High;Low;Best;08/09/2021;;65299,97
+262;Contractor;Finance;Male;20-30;Doctor;HR Specialist;High;Low;Best;13/04/2021;;100558,52
+263;Full-time;Research & Development;Male;50-60;Bachelor;Manager;Medium;Outstanding;Bad;24/05/2021;;152889,52
+264;Contractor;Marketing;Male;50-60;Bachelor;Sales Executive;High;Excellent;Bad;08/01/2021;;68483,69
+265;Full-time;Sales;Female;60+;Master;Sales Executive;Very High;Low;Good;15/05/2021;;110429,37
+266;Contractor;HR;Female;20-30;Below College;Manager;Medium;Low;Bad;02/05/2021;06/01/2023;98509,12
+267;Contractor;Finance;Male;20-30;Master;Sales Executive;High;Low;Better;13/09/2021;09/12/2023;57760,64
+268;Contractor;Research & Development;Male;Below 20;College;IT Analyst;Very High;Good;Better;25/09/2021;;77726,74
+269;Contractor;Marketing;Male;60+;Doctor;HR Specialist;Low;Outstanding;Good;20/08/2021;;144460,32
+270;Contractor;Finance;Other;30-40;Below College;Finance Director;Low;Good;Bad;15/03/2021;;160937,57
+271;Full-time;Research & Development;Female;60+;Below College;Finance Director;Medium;Outstanding;Good;23/09/2021;04/10/2022;98896,27
+272;Full-time;Finance;Male;50-60;Master;Sales Executive;Low;Low;Bad;15/11/2021;;67617,22
+273;Contractor;Sales;Male;40-50;Master;Sales Executive;Very High;Excellent;Better;09/11/2021;10/01/2024;98807,95
+274;Full-time;HR;Male;40-50;Bachelor;Finance Director;Very High;Low;Good;28/12/2021;10/05/2023;78910,09
+275;Full-time;IT;Male;50-60;Below College;Finance Director;Medium;Low;Better;19/02/2021;;180906,96
+276;Contractor;IT;Female;50-60;College;Sales Executive;Very High;Outstanding;Best;16/03/2021;;69682,73
+277;Full-time;Research & Development;Male;Below 20;Master;Research Scientist;Medium;Excellent;Best;25/04/2021;;158546,17
+278;Full-time;IT;Female;60+;Master;Research Scientist;Medium;Good;Good;09/11/2021;;69332,63
+279;Contractor;Finance;Male;Below 20;Bachelor;IT Analyst;Very High;Outstanding;Good;02/02/2021;;104292,4
+280;Contractor;Research & Development;Female;50-60;Below College;Manager;Low;Low;Good;24/02/2021;;156660,26
+281;Contractor;IT;Female;50-60;Bachelor;IT Analyst;Low;Outstanding;Bad;01/08/2021;;136770,74
+282;Full-time;IT;Male;40-50;Doctor;Sales Executive;Medium;Excellent;Better;14/04/2021;;113419,52
+283;Contractor;Sales;Female;30-40;Master;IT Analyst;High;Outstanding;Bad;08/03/2021;;88083,91
+284;Full-time;HR;Female;30-40;Doctor;Manager;Medium;Outstanding;Good;26/02/2021;;73175,82
+285;Contractor;Research & Development;Female;40-50;College;IT Analyst;Very High;Outstanding;Best;21/11/2021;;138622,28
+286;Contractor;Marketing;Male;Below 20;Master;Research Scientist;Medium;Low;Good;13/07/2021;;76149,84
+287;Contractor;Marketing;Male;50-60;Below College;Finance Director;Low;Good;Bad;03/09/2021;;52779,4
+288;Contractor;IT;Male;30-40;College;Research Scientist;Very High;Low;Good;01/10/2021;15/09/2023;181836,96
+289;Full-time;HR;Other;Below 20;Master;Manager;Very High;Outstanding;Bad;21/02/2021;;59858,95
+290;Contractor;Research & Development;Female;30-40;Doctor;Research Scientist;Medium;Excellent;Good;06/09/2021;;93866,34
+291;Full-time;Sales;Male;60+;College;Finance Director;High;Excellent;Bad;01/06/2021;;133383,49
+292;Full-time;IT;Female;30-40;College;Sales Executive;Very High;Low;Best;21/10/2021;;90952,92
+293;Full-time;HR;Male;30-40;Doctor;Manager;High;Good;Good;20/03/2021;;55214,7
+294;Full-time;Sales;Female;Below 20;Bachelor;Research Scientist;Very High;Outstanding;Best;09/03/2021;;125914,49
+295;Full-time;Research & Development;Male;50-60;Master;Sales Executive;Low;Outstanding;Bad;27/11/2021;11/05/2023;90520,91
+296;Contractor;IT;Female;50-60;Bachelor;Research Scientist;Very High;Low;Bad;18/12/2021;;144131,36
+297;Contractor;Sales;Male;60+;Bachelor;Sales Executive;High;Low;Bad;25/10/2021;;67504,75
+298;Full-time;HR;Male;20-30;Doctor;HR Specialist;Medium;Excellent;Good;07/05/2021;;89289,39
+299;Full-time;Research & Development;Male;20-30;Below College;HR Specialist;Very High;Low;Good;18/11/2021;;120496,04
+300;Contractor;Research & Development;Female;50-60;Doctor;Sales Executive;High;Good;Bad;22/05/2021;;150815,59
+301;Contractor;Sales;Male;50-60;Master;IT Analyst;Low;Good;Good;19/02/2021;;80420,85
+302;Contractor;Research & Development;Male;40-50;Bachelor;Research Scientist;Low;Low;Better;11/08/2021;;164754,62
+303;Contractor;IT;Male;Below 20;Doctor;Research Scientist;High;Outstanding;Bad;07/05/2021;24/03/2024;67458,05
+304;Contractor;Marketing;Other;Below 20;Doctor;Sales Executive;High;Low;Best;22/06/2021;;121074,09
+305;Contractor;HR;Male;60+;Bachelor;Sales Executive;High;Outstanding;Good;08/10/2021;;91965,54
+306;Contractor;IT;Male;20-30;Doctor;IT Analyst;Very High;Good;Better;07/12/2021;;84165,99
+307;Full-time;Sales;Female;60+;Bachelor;Sales Executive;High;Low;Better;20/09/2021;;81190,21
+308;Full-time;Sales;Male;50-60;Master;Finance Director;Very High;Excellent;Good;03/02/2021;13/10/2022;80273,99
+309;Full-time;HR;Female;60+;Master;Sales Executive;High;Low;Better;11/01/2021;;120097,17
+310;Contractor;Marketing;Male;40-50;College;IT Analyst;Low;Good;Good;20/01/2021;;117311,59
+311;Contractor;Finance;Other;Below 20;Bachelor;Sales Executive;High;Excellent;Better;04/05/2021;14/08/2023;142502,09
+312;Contractor;Research & Development;Female;Below 20;Below College;Manager;Medium;Outstanding;Good;18/02/2021;27/01/2023;107425,81
+313;Full-time;Research & Development;Female;60+;College;IT Analyst;Low;Excellent;Best;21/04/2021;;167938,36
+314;Contractor;IT;Male;20-30;Bachelor;Manager;Medium;Low;Good;04/06/2021;;104545,26
+315;Contractor;Sales;Other;40-50;Doctor;Sales Executive;Medium;Good;Good;11/12/2021;;116461,62
+316;Full-time;HR;Female;60+;Doctor;HR Specialist;High;Good;Better;18/05/2021;;126259,68
+317;Full-time;IT;Male;20-30;College;Sales Executive;Very High;Excellent;Bad;22/01/2021;;86547,43
+318;Contractor;Sales;Male;40-50;Below College;HR Specialist;High;Outstanding;Good;20/08/2021;;150928,98
+319;Full-time;Marketing;Female;50-60;Master;IT Analyst;Low;Low;Best;01/04/2021;;89818,99
+320;Full-time;Finance;Male;30-40;College;Sales Executive;Medium;Low;Better;02/10/2021;;87830,59
+321;Full-time;Finance;Female;Below 20;Bachelor;HR Specialist;Low;Outstanding;Best;04/05/2021;;104892,92
+322;Full-time;Research & Development;Female;40-50;College;Sales Executive;Low;Good;Good;26/10/2021;;118978,2
+323;Contractor;Research & Development;Female;40-50;College;Manager;Medium;Excellent;Best;16/10/2022;09/11/2022;143293,43
+324;Full-time;Sales;Other;20-30;Below College;Finance Director;High;Low;Bad;14/01/2021;19/02/2022;161467,79
+325;Full-time;IT;Male;50-60;Master;Research Scientist;Medium;Outstanding;Bad;02/05/2021;;131478,95
+326;Full-time;IT;Male;40-50;Bachelor;Finance Director;Medium;Low;Bad;09/06/2021;;162498,28
+327;Full-time;Sales;Female;50-60;Bachelor;Sales Executive;High;Excellent;Bad;22/02/2021;;129272,02
+328;Contractor;IT;Male;50-60;Master;Sales Executive;Low;Low;Good;13/05/2021;20/11/2023;72732,45
+329;Contractor;Finance;Male;40-50;Bachelor;Research Scientist;Very High;Good;Better;19/08/2021;;142055,66
+330;Full-time;Sales;Male;40-50;Master;Sales Executive;High;Good;Better;01/01/2021;;75378,89
+331;Full-time;IT;Female;40-50;Below College;HR Specialist;Very High;Outstanding;Bad;27/04/2021;;103589,18
+332;Full-time;IT;Male;50-60;Doctor;HR Specialist;Very High;Low;Better;23/11/2021;;174648,52
+333;Contractor;Marketing;Male;40-50;Master;Research Scientist;Very High;Good;Better;23/06/2021;17/06/2023;87629,66
+334;Contractor;IT;Female;Below 20;Bachelor;Sales Executive;Very High;Low;Best;22/08/2021;;67569,75
+335;Full-time;HR;Female;Below 20;Master;Finance Director;Medium;Excellent;Good;18/05/2021;;118906,95
+336;Contractor;HR;Male;Below 20;College;Finance Director;Medium;Outstanding;Better;05/09/2021;;140781,6
+337;Full-time;Finance;Male;Below 20;Below College;IT Analyst;Low;Low;Bad;12/03/2021;20/05/2022;87557,27
+338;Contractor;HR;Male;60+;College;IT Analyst;High;Good;Good;09/12/2021;;60913,14
+339;Contractor;HR;Male;50-60;College;Manager;High;Outstanding;Good;23/02/2021;;126355,78
+340;Full-time;Marketing;Male;40-50;Master;Manager;Very High;Good;Bad;01/10/2021;;111630,8
+341;Contractor;Sales;Male;30-40;Below College;HR Specialist;High;Good;Best;18/10/2021;;112987,63
+342;Contractor;Marketing;Female;40-50;Doctor;HR Specialist;High;Good;Bad;16/09/2021;;84544,88
+343;Full-time;HR;Female;Below 20;Doctor;Research Scientist;High;Excellent;Better;20/01/2021;;80951,43
+344;Full-time;Research & Development;Female;50-60;Bachelor;Finance Director;Low;Low;Good;15/01/2021;;76172,39
+345;Full-time;Marketing;Female;60+;Below College;Sales Executive;Low;Excellent;Better;09/07/2021;08/01/2024;108214,76
+346;Full-time;Research & Development;Male;20-30;Bachelor;Manager;Very High;Outstanding;Bad;10/07/2021;;80037,57
+347;Full-time;Finance;Male;40-50;Doctor;HR Specialist;Very High;Excellent;Better;27/05/2021;;155039,97
+348;Contractor;Sales;Male;20-30;Doctor;Finance Director;Low;Low;Best;01/10/2021;;157461,53
+349;Full-time;Research & Development;Male;30-40;College;HR Specialist;Low;Good;Bad;04/03/2021;;145510,98
+350;Full-time;Finance;Female;Below 20;Bachelor;Research Scientist;High;Excellent;Bad;11/03/2021;;125841,02
+351;Full-time;Finance;Female;50-60;Below College;HR Specialist;High;Outstanding;Best;06/08/2021;;105628,37
+352;Full-time;Marketing;Female;50-60;College;Finance Director;Medium;Low;Better;26/11/2021;;123688,55
+353;Contractor;Research & Development;Female;50-60;Master;IT Analyst;Very High;Low;Good;14/08/2021;;113115,63
+354;Full-time;Sales;Female;Below 20;College;Finance Director;High;Excellent;Bad;01/07/2021;22/06/2024;105705,42
+355;Full-time;IT;Male;60+;Doctor;Manager;Medium;Low;Best;15/04/2021;18/03/2023;97977,76
+356;Full-time;Marketing;Female;30-40;Doctor;Sales Executive;High;Outstanding;Bad;15/06/2021;13/04/2024;128785,36
+357;Contractor;Marketing;Female;50-60;Below College;Finance Director;Very High;Outstanding;Bad;12/07/2021;;56219,81
+358;Contractor;Sales;Male;60+;College;Sales Executive;Very High;Good;Better;20/12/2021;;142549,47
+359;Contractor;IT;Female;60+;Master;HR Specialist;High;Good;Bad;24/08/2021;;98270
+360;Contractor;IT;Other;40-50;Doctor;Sales Executive;Medium;Low;Better;02/12/2021;24/07/2023;174050,26
+361;Full-time;Finance;Female;60+;Master;HR Specialist;High;Outstanding;Bad;04/03/2021;;107007,42
+362;Contractor;Research & Development;Male;50-60;Doctor;HR Specialist;Low;Low;Better;21/04/2021;07/07/2022;76264,88
+363;Full-time;Sales;Male;30-40;College;Finance Director;Medium;Good;Best;27/06/2021;;64461,6
+364;Contractor;Research & Development;Female;20-30;College;Sales Executive;Low;Low;Best;05/05/2021;12/06/2022;104757,71
+365;Full-time;Research & Development;Male;Below 20;Below College;HR Specialist;High;Outstanding;Good;15/08/2021;;148603,47
+366;Contractor;Research & Development;Male;Below 20;College;Sales Executive;Very High;Good;Better;14/12/2021;;142937,65
+367;Full-time;IT;Male;50-60;Doctor;IT Analyst;Very High;Good;Bad;10/07/2021;;111347,48
+368;Full-time;HR;Male;50-60;Master;Finance Director;Very High;Low;Better;18/03/2021;05/08/2023;128244,67
+369;Full-time;Finance;Female;60+;Master;Finance Director;High;Excellent;Best;06/04/2021;;163095,38
+370;Contractor;IT;Male;Below 20;Below College;Research Scientist;Low;Good;Better;24/03/2021;;73864,7
+371;Full-time;HR;Female;50-60;College;HR Specialist;Low;Good;Better;13/01/2021;;66417,11
+372;Contractor;Sales;Female;Below 20;Below College;IT Analyst;High;Low;Good;12/04/2021;;117595,88
+373;Contractor;HR;Female;60+;Below College;Manager;Low;Excellent;Best;17/10/2022;;71692,43
+374;Contractor;Research & Development;Other;20-30;Bachelor;Sales Executive;Medium;Excellent;Best;27/11/2021;;100780,02
+375;Contractor;Finance;Female;40-50;Master;HR Specialist;High;Excellent;Better;10/05/2021;29/12/2022;120557,85
+376;Contractor;HR;Male;60+;College;Sales Executive;High;Outstanding;Best;05/01/2021;;134214,15
+377;Full-time;IT;Female;Below 20;Master;Finance Director;High;Good;Bad;27/03/2021;;95247,47
+378;Contractor;HR;Other;40-50;Below College;Sales Executive;Medium;Excellent;Best;27/10/2021;;125889,72
+379;Full-time;Sales;Female;40-50;Doctor;IT Analyst;High;Low;Bad;03/12/2021;;118171,03
+380;Full-time;Research & Development;Female;40-50;Bachelor;IT Analyst;Very High;Good;Bad;02/08/2021;;68558,11
+381;Full-time;Sales;Male;Below 20;Bachelor;Research Scientist;Low;Low;Better;24/10/2021;;158676,71
+382;Contractor;Finance;Other;Below 20;Below College;HR Specialist;Medium;Outstanding;Good;23/12/2021;;163604,17
+383;Contractor;Research & Development;Female;30-40;Doctor;Sales Executive;High;Good;Better;01/02/2021;02/07/2023;88818,26
+384;Full-time;IT;Male;30-40;Below College;Research Scientist;Low;Low;Best;11/12/2021;;125803,79
+385;Contractor;Sales;Female;30-40;Master;Finance Director;Medium;Outstanding;Good;22/08/2021;;150469,09
+386;Contractor;HR;Male;60+;Bachelor;IT Analyst;High;Outstanding;Good;24/03/2021;;139658,27
+387;Full-time;Sales;Female;30-40;Master;IT Analyst;Low;Good;Bad;04/10/2021;;121545,33
+388;Full-time;Finance;Male;Below 20;Master;Finance Director;Very High;Good;Better;09/05/2021;;98327,07
+389;Contractor;Marketing;Other;Below 20;Master;Finance Director;High;Low;Bad;26/10/2021;13/02/2024;145625,32
+390;Contractor;HR;Male;40-50;Below College;HR Specialist;Low;Low;Bad;20/10/2021;30/09/2024;120410,35
+391;Contractor;IT;Female;60+;Bachelor;Sales Executive;High;Excellent;Better;01/06/2021;;90166,16
+392;Contractor;Sales;Female;Below 20;College;Sales Executive;Very High;Outstanding;Better;11/06/2021;;157876,95
+393;Full-time;Sales;Female;Below 20;Master;Research Scientist;High;Outstanding;Best;03/02/2021;;88381,32
+394;Full-time;Research & Development;Male;Below 20;Below College;IT Analyst;Very High;Low;Bad;24/05/2021;;133423,59
+395;Contractor;HR;Male;60+;Bachelor;Finance Director;Low;Excellent;Best;07/01/2021;;89784,04
+396;Full-time;Sales;Male;40-50;Doctor;Research Scientist;Medium;Low;Better;07/09/2021;;57535,19
+397;Contractor;HR;Male;20-30;College;IT Analyst;Medium;Good;Better;28/12/2021;;125299,16
+398;Contractor;HR;Other;60+;Bachelor;HR Specialist;Low;Good;Best;06/07/2021;14/10/2022;66524,98
+399;Contractor;Sales;Female;40-50;Bachelor;HR Specialist;High;Low;Best;06/02/2021;;123521,86
+400;Full-time;Research & Development;Female;20-30;Master;Manager;High;Outstanding;Better;11/02/2021;;116085,26
+401;Full-time;Marketing;Male;30-40;Bachelor;IT Analyst;Low;Low;Good;27/05/2022;;123144,04
+402;Contractor;HR;Male;60+;Below College;IT Analyst;Low;Good;Bad;17/01/2022;;80166,25
+403;Contractor;IT;Female;20-30;Bachelor;Finance Director;Medium;Low;Best;03/10/2022;28/01/2024;178871,54
+404;Contractor;HR;Male;20-30;College;HR Specialist;Very High;Good;Better;07/07/2022;22/10/2024;83425,08
+405;Contractor;Research & Development;Male;50-60;Doctor;IT Analyst;High;Excellent;Better;27/08/2022;;146625,36
+406;Full-time;Research & Development;Male;40-50;Below College;Manager;Very High;Outstanding;Better;21/11/2024;;155649,37
+407;Contractor;IT;Male;50-60;Doctor;HR Specialist;Very High;Excellent;Better;03/11/2022;;153175,91
+408;Contractor;Marketing;Female;40-50;Bachelor;Research Scientist;High;Outstanding;Best;23/04/2022;;145174,85
+409;Full-time;Research & Development;Other;Below 20;Below College;Finance Director;Medium;Low;Good;19/08/2022;;85456,36
+410;Contractor;IT;Other;40-50;Bachelor;Research Scientist;Low;Outstanding;Better;11/06/2022;11/09/2024;100876,68
+411;Full-time;Research & Development;Male;50-60;College;Sales Executive;Medium;Low;Best;17/10/2022;;170996,09
+412;Full-time;HR;Male;20-30;Below College;Research Scientist;Medium;Outstanding;Bad;11/02/2022;;126821,73
+413;Contractor;HR;Female;50-60;Doctor;Research Scientist;High;Excellent;Better;08/02/2022;;139601,01
+414;Full-time;Marketing;Female;50-60;Doctor;Finance Director;Low;Low;Better;28/01/2022;;151786,27
+415;Full-time;Sales;Male;60+;Bachelor;HR Specialist;High;Outstanding;Good;15/02/2022;;99806,17
+416;Full-time;Sales;Male;20-30;Master;HR Specialist;Low;Outstanding;Better;16/05/2022;;158933
+417;Full-time;Marketing;Female;30-40;Bachelor;HR Specialist;High;Outstanding;Best;03/11/2022;;60059,01
+418;Contractor;IT;Female;Below 20;Master;Finance Director;High;Excellent;Best;24/03/2022;;146985,93
+419;Contractor;Marketing;Female;20-30;Doctor;Manager;Medium;Good;Good;14/06/2022;;51352,16
+420;Full-time;Research & Development;Other;30-40;Below College;Sales Executive;Medium;Outstanding;Good;04/04/2022;26/08/2024;137377,67
+421;Full-time;Research & Development;Male;Below 20;Doctor;Research Scientist;Low;Outstanding;Best;09/12/2022;;129887,63
+422;Full-time;IT;Male;60+;Bachelor;Research Scientist;High;Good;Best;06/07/2022;;158846,02
+423;Contractor;Research & Development;Male;Below 20;Master;IT Analyst;High;Good;Good;27/09/2022;;157933,39
+424;Contractor;HR;Female;Below 20;College;Manager;Very High;Low;Best;22/12/2022;;56125,77
+425;Full-time;Research & Development;Female;50-60;College;Sales Executive;Medium;Outstanding;Bad;07/08/2022;;86462,83
+426;Full-time;Marketing;Male;60+;Bachelor;Sales Executive;Low;Low;Best;21/12/2022;;102858,4
+427;Full-time;IT;Female;60+;Bachelor;Research Scientist;Medium;Excellent;Good;16/02/2022;;167710,98
+428;Contractor;Research & Development;Female;Below 20;Bachelor;Manager;High;Good;Bad;09/06/2022;;120767,07
+429;Full-time;IT;Male;20-30;College;Finance Director;Low;Outstanding;Good;27/03/2022;;105370,64
+430;Contractor;IT;Female;30-40;College;Manager;Low;Excellent;Good;22/04/2022;;112620,18
+431;Contractor;Research & Development;Male;40-50;Doctor;IT Analyst;High;Low;Better;01/07/2022;;126358,49
+432;Full-time;HR;Male;20-30;Master;Manager;Very High;Outstanding;Better;17/10/2022;;78376,54
+433;Contractor;IT;Female;30-40;Bachelor;Manager;High;Good;Good;24/05/2022;;110112,85
+434;Full-time;Marketing;Other;30-40;Bachelor;Sales Executive;Very High;Outstanding;Best;13/06/2022;;60698,61
+435;Contractor;Finance;Female;40-50;Doctor;Finance Director;Very High;Outstanding;Best;08/08/2022;;154552,16
+436;Full-time;IT;Male;50-60;Doctor;HR Specialist;Medium;Excellent;Better;22/11/2022;;126870,93
+437;Contractor;HR;Female;50-60;Bachelor;IT Analyst;Very High;Outstanding;Best;01/08/2022;;111644,47
+438;Contractor;IT;Male;60+;Doctor;Sales Executive;Low;Low;Bad;03/05/2022;;84102,11
+439;Contractor;Marketing;Female;50-60;Doctor;Finance Director;Very High;Low;Bad;19/05/2022;;117910,54
+440;Contractor;Research & Development;Male;Below 20;Bachelor;Manager;High;Excellent;Best;20/07/2022;26/10/2024;105699,18
+441;Full-time;HR;Male;60+;College;HR Specialist;Medium;Outstanding;Bad;27/01/2022;;72093,47
+442;Contractor;IT;Female;50-60;College;Manager;Medium;Outstanding;Better;02/09/2022;18/01/2024;130601,52
+443;Contractor;HR;Male;60+;College;Manager;Low;Outstanding;Best;16/02/2022;;93796,43
+444;Full-time;Finance;Male;40-50;College;Finance Director;Very High;Excellent;Better;22/06/2022;;62625,28
+445;Full-time;Marketing;Male;50-60;College;Manager;Very High;Outstanding;Bad;23/08/2022;;61924,43
+446;Contractor;Research & Development;Male;60+;Master;IT Analyst;High;Low;Best;18/04/2022;;176011,47
+447;Contractor;IT;Male;40-50;Below College;Research Scientist;Medium;Low;Better;02/08/2022;;126299,39
+448;Full-time;Marketing;Female;Below 20;Doctor;HR Specialist;High;Good;Better;12/06/2022;;122177,29
+449;Contractor;Marketing;Female;30-40;Below College;IT Analyst;High;Outstanding;Better;02/03/2022;;55031,89
+450;Contractor;Sales;Male;40-50;Doctor;Manager;Medium;Outstanding;Bad;20/10/2022;;97791,17
+451;Full-time;Research & Development;Male;20-30;Below College;Finance Director;Medium;Low;Bad;09/01/2022;15/01/2023;151276,65
+452;Full-time;Research & Development;Male;40-50;Bachelor;Research Scientist;High;Excellent;Good;06/07/2022;;141510,17
+453;Full-time;Research & Development;Female;Below 20;Doctor;Research Scientist;Medium;Good;Good;05/07/2022;11/06/2024;136904,73
+454;Full-time;Sales;Female;60+;Below College;Finance Director;Very High;Outstanding;Best;24/05/2022;;148063,2
+455;Contractor;Research & Development;Male;40-50;Master;IT Analyst;Very High;Excellent;Best;07/02/2022;;79186,41
+456;Full-time;Research & Development;Female;Below 20;Bachelor;Manager;Very High;Low;Better;02/04/2022;;97689,6
+457;Contractor;HR;Female;Below 20;Bachelor;HR Specialist;Medium;Excellent;Good;19/09/2022;;123994,03
+458;Full-time;IT;Female;40-50;Master;Finance Director;Low;Outstanding;Good;26/09/2022;;140597,11
+459;Contractor;HR;Female;30-40;Below College;Research Scientist;High;Low;Good;02/07/2022;;60004,85
+460;Full-time;Research & Development;Male;20-30;Master;IT Analyst;Low;Good;Bad;26/01/2022;;67141,63
+461;Full-time;Finance;Male;Below 20;Below College;Manager;Very High;Outstanding;Good;23/11/2022;29/03/2024;67046,23
+462;Full-time;Sales;Female;20-30;Bachelor;Research Scientist;Very High;Low;Better;11/09/2022;07/05/2024;105841,31
+463;Contractor;Research & Development;Female;30-40;College;Finance Director;Low;Good;Best;12/07/2022;;94984,98
+464;Full-time;IT;Female;60+;Below College;Finance Director;Medium;Low;Bad;11/06/2022;;176353,09
+465;Full-time;Sales;Female;50-60;Doctor;IT Analyst;Low;Low;Good;26/04/2022;;110213,25
+466;Full-time;Finance;Female;40-50;Bachelor;Research Scientist;Low;Outstanding;Bad;05/10/2022;;159612,74
+467;Contractor;IT;Male;20-30;College;Finance Director;High;Low;Good;13/03/2022;21/08/2023;79253,06
+468;Full-time;Marketing;Female;30-40;Bachelor;Research Scientist;Medium;Excellent;Better;14/02/2022;;55352,42
+469;Full-time;Finance;Male;60+;Bachelor;Research Scientist;Low;Good;Bad;07/12/2022;16/06/2024;93975,75
+470;Full-time;Sales;Male;Below 20;Bachelor;HR Specialist;Low;Excellent;Bad;02/03/2022;;65886,2
+471;Full-time;Research & Development;Male;40-50;Below College;Manager;Low;Outstanding;Better;26/10/2022;07/01/2024;166605,75
+472;Contractor;Research & Development;Female;30-40;Doctor;Sales Executive;Low;Good;Bad;26/09/2022;;167819,46
+473;Contractor;HR;Female;Below 20;Bachelor;IT Analyst;Very High;Good;Good;22/12/2022;;60884,61
+474;Full-time;Finance;Female;60+;Doctor;Sales Executive;Medium;Good;Better;04/01/2022;28/01/2024;166528,23
+475;Full-time;HR;Male;40-50;College;Manager;Low;Good;Best;22/09/2022;;121876,01
+476;Full-time;Research & Development;Male;20-30;College;Sales Executive;High;Outstanding;Good;10/02/2022;;102887,79
+477;Full-time;Sales;Male;Below 20;Bachelor;Manager;High;Outstanding;Better;25/07/2022;;120671,18
+478;Full-time;Sales;Male;40-50;Master;Research Scientist;High;Low;Best;21/10/2022;;60868,06
+479;Contractor;Finance;Female;60+;Master;Finance Director;Very High;Good;Good;16/03/2022;;97388,45
+480;Full-time;Marketing;Male;60+;Doctor;Finance Director;Very High;Excellent;Best;12/01/2022;30/06/2024;92868,6
+481;Full-time;Marketing;Female;50-60;Bachelor;Research Scientist;High;Low;Better;01/07/2022;;146434,72
+482;Contractor;IT;Male;50-60;Below College;Manager;Very High;Low;Best;23/09/2022;02/11/2023;105764,08
+483;Contractor;Finance;Male;40-50;College;Manager;Medium;Good;Good;27/08/2022;;85840,07
+484;Full-time;Sales;Female;Below 20;Below College;Sales Executive;Low;Excellent;Better;22/01/2022;;104509,92
+485;Full-time;Sales;Male;50-60;Master;HR Specialist;Medium;Excellent;Good;08/12/2022;08/12/2024;140993,98
+486;Full-time;HR;Female;Below 20;Master;Sales Executive;High;Outstanding;Better;01/11/2022;;137172,62
+487;Contractor;Sales;Male;40-50;College;Research Scientist;Medium;Good;Good;01/07/2022;;107057,03
+488;Contractor;Finance;Female;20-30;Master;HR Specialist;High;Good;Better;03/10/2022;;132502,96
+489;Contractor;Finance;Male;30-40;Master;HR Specialist;Medium;Excellent;Best;15/12/2022;14/02/2024;162173,34
+490;Full-time;Finance;Male;60+;Bachelor;Finance Director;High;Outstanding;Best;15/03/2022;;92478,25
+491;Contractor;HR;Female;30-40;Doctor;Manager;High;Good;Good;13/09/2022;;138110,79
+492;Contractor;Sales;Male;Below 20;Bachelor;Research Scientist;Low;Good;Better;26/05/2022;;91728,24
+493;Contractor;HR;Female;Below 20;Master;HR Specialist;Low;Outstanding;Better;27/07/2022;;101741,03
+494;Full-time;HR;Female;40-50;Bachelor;Sales Executive;Low;Outstanding;Best;05/05/2022;;56909,86
+495;Contractor;Research & Development;Female;30-40;College;HR Specialist;Low;Good;Best;02/07/2022;;97118,73
+496;Contractor;Finance;Female;20-30;College;Manager;Very High;Outstanding;Better;17/10/2022;;88756,24
+497;Full-time;Sales;Male;Below 20;College;Manager;Very High;Low;Best;23/03/2022;;138141,22
+498;Full-time;IT;Male;20-30;Bachelor;Research Scientist;Medium;Excellent;Better;02/09/2022;;101385,47
+499;Contractor;Finance;Male;40-50;Bachelor;Finance Director;High;Outstanding;Bad;11/04/2022;;107719,75
+500;Full-time;HR;Female;40-50;Master;Research Scientist;High;Excellent;Best;16/06/2022;;128520,91
+501;Contractor;HR;Female;Below 20;Master;IT Analyst;High;Excellent;Good;20/08/2022;;119549,8
+502;Full-time;Research & Development;Male;40-50;College;Sales Executive;Medium;Outstanding;Good;21/11/2022;;126177,47
+503;Full-time;Sales;Female;Below 20;Master;Sales Executive;High;Excellent;Best;18/05/2022;;90957,4
+504;Contractor;Finance;Female;30-40;College;Research Scientist;Low;Good;Good;23/12/2022;;87866,3
+505;Full-time;Marketing;Female;30-40;Master;Finance Director;Low;Excellent;Good;05/08/2022;;58967,51
+506;Contractor;Marketing;Male;30-40;College;Manager;Low;Good;Best;27/05/2022;24/11/2024;56523,39
+507;Contractor;Research & Development;Female;50-60;Below College;HR Specialist;Medium;Good;Best;04/04/2022;;117847,65
+508;Contractor;Finance;Male;40-50;Master;IT Analyst;Very High;Good;Better;09/06/2022;;119386,75
+509;Full-time;Finance;Male;Below 20;Bachelor;Research Scientist;Low;Outstanding;Bad;12/11/2022;;156361,66
+510;Full-time;Finance;Other;20-30;College;Sales Executive;High;Good;Best;05/12/2022;;119590,64
+511;Contractor;Marketing;Male;30-40;Doctor;Finance Director;Very High;Excellent;Better;15/01/2022;;109554,89
+512;Full-time;HR;Male;50-60;Master;Research Scientist;High;Low;Best;23/10/2022;;129954,57
+513;Full-time;Finance;Male;30-40;Bachelor;Sales Executive;Medium;Low;Bad;21/07/2022;;93527,34
+514;Contractor;HR;Female;50-60;Below College;HR Specialist;Low;Excellent;Bad;08/10/2022;;69896,44
+515;Contractor;Marketing;Female;30-40;Master;Finance Director;Very High;Low;Good;17/09/2022;;141570,64
+516;Contractor;Finance;Female;40-50;Doctor;HR Specialist;High;Good;Better;16/04/2022;;115841,32
+517;Contractor;Finance;Female;50-60;Bachelor;Sales Executive;Low;Excellent;Better;09/08/2022;;95682,24
+518;Full-time;HR;Male;20-30;College;Finance Director;Medium;Good;Better;11/06/2022;;80098,62
+519;Full-time;HR;Male;30-40;Master;Research Scientist;Low;Good;Bad;10/05/2022;;136779,69
+520;Contractor;Sales;Other;20-30;College;Manager;High;Good;Bad;06/01/2022;;161274,39
+521;Contractor;Research & Development;Male;50-60;Doctor;HR Specialist;High;Good;Bad;03/11/2022;;155986,6
+522;Contractor;IT;Male;60+;Master;IT Analyst;Low;Good;Best;10/08/2022;;159627,25
+523;Full-time;Research & Development;Male;40-50;Bachelor;Sales Executive;High;Outstanding;Best;06/06/2022;;95916,46
+524;Contractor;HR;Female;60+;Doctor;IT Analyst;Low;Low;Good;15/04/2022;29/07/2023;57723,65
+525;Contractor;Marketing;Male;20-30;College;Finance Director;Medium;Low;Best;02/01/2022;;81624,79
+526;Contractor;Research & Development;Female;20-30;Doctor;Sales Executive;Very High;Good;Best;06/02/2022;;114570,82
+527;Contractor;HR;Male;50-60;Bachelor;HR Specialist;Very High;Outstanding;Better;05/09/2022;;132568,45
+528;Contractor;HR;Female;30-40;College;HR Specialist;Low;Excellent;Best;05/07/2022;;91369,49
+529;Full-time;Sales;Female;Below 20;Master;Finance Director;High;Low;Best;05/10/2022;;57727,19
+530;Contractor;HR;Female;20-30;Bachelor;Research Scientist;Very High;Excellent;Better;25/04/2022;;140898,83
+531;Contractor;Marketing;Female;60+;College;Sales Executive;High;Outstanding;Good;08/03/2022;;137579,97
+532;Contractor;HR;Female;20-30;Master;Research Scientist;Very High;Good;Good;10/08/2022;;110724,19
+533;Full-time;HR;Female;20-30;Below College;Finance Director;Very High;Excellent;Best;15/11/2024;;54967,95
+534;Full-time;Sales;Female;50-60;Bachelor;HR Specialist;Medium;Low;Best;15/04/2022;;118218,67
+535;Full-time;Marketing;Female;30-40;Master;Manager;Medium;Good;Bad;16/10/2022;;108331,74
+536;Full-time;Sales;Female;20-30;College;Research Scientist;Medium;Good;Bad;06/03/2022;;103983,88
+537;Full-time;Research & Development;Male;40-50;College;Sales Executive;High;Low;Better;23/05/2022;;83678,18
+538;Full-time;Finance;Male;60+;Bachelor;HR Specialist;Medium;Good;Bad;17/06/2022;;111528,18
+539;Full-time;Sales;Female;40-50;Master;Manager;High;Outstanding;Good;13/07/2022;;125312,09
+540;Contractor;IT;Female;50-60;College;Sales Executive;Very High;Low;Better;08/06/2022;;180237,6
+541;Full-time;IT;Other;60+;Bachelor;Finance Director;Very High;Excellent;Good;12/12/2022;;181219,7
+542;Full-time;Marketing;Female;30-40;Master;HR Specialist;Low;Outstanding;Better;14/04/2022;;60799,41
+543;Contractor;IT;Male;40-50;College;HR Specialist;Very High;Outstanding;Bad;20/12/2022;;158214,74
+544;Contractor;HR;Male;50-60;Below College;Research Scientist;Medium;Excellent;Bad;12/09/2022;;118682,31
+545;Full-time;HR;Male;50-60;Doctor;Manager;High;Excellent;Good;08/06/2022;;99110,96
+546;Contractor;IT;Female;50-60;Master;Manager;Very High;Good;Best;07/09/2022;;151970,63
+547;Contractor;Finance;Male;20-30;Master;HR Specialist;Medium;Excellent;Better;11/07/2022;;74446,4
+548;Full-time;Marketing;Female;60+;Below College;Sales Executive;High;Excellent;Better;28/07/2022;;83889,15
+549;Full-time;Research & Development;Female;60+;Below College;Manager;Very High;Good;Good;28/08/2022;;85305,62
+550;Contractor;Research & Development;Male;Below 20;Doctor;Sales Executive;Low;Outstanding;Better;03/01/2022;;75822,61
+551;Contractor;Finance;Male;20-30;Below College;Research Scientist;High;Low;Best;18/07/2022;;99731,11
+552;Contractor;Marketing;Male;50-60;Master;Manager;Very High;Outstanding;Better;02/04/2022;13/07/2024;59855,98
+553;Full-time;HR;Other;60+;Bachelor;Research Scientist;High;Excellent;Bad;05/06/2022;;57012,41
+554;Contractor;Marketing;Other;20-30;Below College;Manager;Medium;Excellent;Best;14/11/2022;25/12/2023;109698,06
+555;Full-time;Finance;Male;60+;College;Research Scientist;Very High;Outstanding;Bad;16/04/2022;;172687,27
+556;Contractor;Finance;Female;Below 20;Doctor;HR Specialist;High;Excellent;Better;13/04/2022;13/06/2024;97237,89
+557;Full-time;Finance;Male;40-50;Master;IT Analyst;Low;Low;Good;24/02/2022;;112875,74
+558;Full-time;Research & Development;Other;Below 20;Master;HR Specialist;Very High;Low;Better;02/11/2022;;157231,15
+559;Contractor;HR;Female;30-40;Doctor;HR Specialist;Very High;Outstanding;Better;14/05/2022;12/09/2024;109099,91
+560;Contractor;Marketing;Female;50-60;Below College;Research Scientist;Medium;Low;Better;14/03/2022;;93223,98
+561;Contractor;IT;Female;40-50;Master;HR Specialist;Medium;Excellent;Bad;25/11/2022;;151120,38
+562;Contractor;Sales;Female;60+;College;Sales Executive;Medium;Outstanding;Best;27/10/2022;;69060,88
+563;Full-time;Sales;Female;30-40;Below College;Manager;Low;Low;Good;09/12/2022;;115053,05
+564;Contractor;IT;Female;60+;Below College;Research Scientist;Low;Low;Good;03/04/2022;;150958,13
+565;Contractor;Finance;Male;30-40;Master;Manager;High;Excellent;Best;24/04/2022;;167620,75
+566;Contractor;Research & Development;Female;50-60;Bachelor;Sales Executive;High;Outstanding;Good;19/08/2022;;74070,54
+567;Full-time;Research & Development;Other;60+;College;Research Scientist;Medium;Good;Best;04/10/2022;;123165,99
+568;Contractor;Finance;Male;50-60;College;Finance Director;Low;Excellent;Bad;13/11/2022;;136436,23
+569;Full-time;Finance;Female;40-50;Below College;Sales Executive;High;Excellent;Good;28/11/2022;;113107,64
+570;Contractor;Research & Development;Female;30-40;Doctor;HR Specialist;Very High;Good;Best;22/12/2022;14/10/2024;65797,64
+571;Full-time;HR;Female;50-60;Bachelor;Sales Executive;Medium;Excellent;Bad;13/11/2022;;91629,86
+572;Contractor;IT;Female;50-60;Master;Research Scientist;Very High;Good;Best;18/08/2022;;113094,32
+573;Contractor;IT;Male;40-50;Below College;Manager;High;Low;Better;22/09/2022;;118296,99
+574;Contractor;Research & Development;Male;30-40;College;Manager;High;Low;Good;28/04/2022;;160010,08
+575;Contractor;Finance;Male;Below 20;Bachelor;Sales Executive;Low;Excellent;Best;16/02/2022;;121580,32
+576;Contractor;Finance;Female;Below 20;Bachelor;Finance Director;Medium;Outstanding;Good;01/10/2022;10/06/2024;63361,01
+577;Contractor;Research & Development;Male;20-30;College;IT Analyst;High;Good;Best;02/11/2022;28/01/2024;103863,23
+578;Contractor;Sales;Female;30-40;College;IT Analyst;Low;Good;Best;07/12/2022;;136572,14
+579;Contractor;Sales;Other;Below 20;Doctor;IT Analyst;High;Low;Bad;19/03/2022;;79207,77
+580;Full-time;Research & Development;Other;60+;College;IT Analyst;Low;Low;Bad;12/11/2022;;165895,06
+581;Contractor;IT;Other;Below 20;Below College;IT Analyst;Medium;Excellent;Best;07/09/2022;;135906,79
+582;Contractor;IT;Male;20-30;College;Finance Director;Low;Low;Bad;14/11/2022;;129304,05
+583;Contractor;Sales;Female;20-30;College;Sales Executive;Low;Outstanding;Best;11/05/2022;;81520,08
+584;Full-time;IT;Female;40-50;College;IT Analyst;Medium;Outstanding;Best;17/10/2022;;150549,92
+585;Contractor;Sales;Female;60+;Below College;Research Scientist;Very High;Good;Good;05/12/2022;;111625,41
+586;Full-time;Sales;Female;50-60;College;Sales Executive;Low;Low;Better;20/11/2024;;68912,17
+587;Full-time;Finance;Female;30-40;Bachelor;HR Specialist;Medium;Good;Better;18/09/2022;;166514,36
+588;Contractor;HR;Male;50-60;Doctor;Manager;Low;Low;Good;11/12/2022;;118680,71
+589;Contractor;IT;Female;20-30;Doctor;Sales Executive;Low;Outstanding;Bad;10/11/2022;;78012,67
+590;Full-time;IT;Female;20-30;Doctor;Manager;Very High;Low;Good;27/03/2022;;136424,9
+591;Full-time;Finance;Male;40-50;Below College;Sales Executive;Very High;Good;Best;23/01/2022;;153162,48
+592;Contractor;Sales;Male;40-50;Below College;Sales Executive;Very High;Outstanding;Better;05/10/2022;;62598,55
+593;Full-time;Marketing;Male;60+;Master;IT Analyst;High;Low;Good;24/12/2022;;75091,93
+594;Full-time;Sales;Female;Below 20;College;Finance Director;High;Low;Bad;21/05/2022;;165392,97
+595;Contractor;Research & Development;Female;40-50;Bachelor;Research Scientist;Low;Good;Good;13/12/2022;;125483,82
+596;Contractor;Finance;Male;40-50;Below College;Finance Director;Low;Excellent;Best;12/04/2022;;126803,51
+597;Contractor;Marketing;Male;20-30;Bachelor;HR Specialist;Very High;Outstanding;Good;10/10/2022;;99672,23
+598;Full-time;HR;Male;30-40;Bachelor;IT Analyst;High;Excellent;Bad;08/06/2022;18/04/2024;112156,93
+599;Contractor;Finance;Male;30-40;Bachelor;Manager;Low;Excellent;Good;14/12/2022;;85349,91
+600;Full-time;Marketing;Female;30-40;Doctor;Research Scientist;Low;Excellent;Best;22/07/2022;07/05/2024;101126,72
+601;Contractor;Finance;Male;30-40;Bachelor;IT Analyst;Low;Good;Bad;24/06/2023;;108273,53
+602;Full-time;Marketing;Male;50-60;Master;Research Scientist;Medium;Outstanding;Good;07/02/2023;;82361,38
+603;Full-time;HR;Male;40-50;College;Finance Director;High;Outstanding;Better;05/03/2023;;56610,65
+604;Full-time;Research & Development;Other;30-40;Master;Manager;Medium;Good;Better;21/06/2023;;96051,85
+605;Contractor;Research & Development;Male;50-60;Bachelor;Sales Executive;Very High;Good;Bad;18/01/2023;;104940,87
+606;Full-time;Sales;Female;60+;College;Research Scientist;Low;Excellent;Better;19/12/2023;;131174,97
+607;Full-time;Sales;Male;20-30;Bachelor;Finance Director;Medium;Good;Bad;24/05/2023;;163691,95
+608;Contractor;Research & Development;Male;30-40;College;Sales Executive;Medium;Outstanding;Bad;27/09/2023;;72105,64
+609;Full-time;IT;Male;30-40;Master;Research Scientist;Medium;Excellent;Better;16/02/2023;;163563,41
+610;Full-time;Finance;Male;50-60;College;Research Scientist;High;Outstanding;Bad;26/07/2023;;90221,56
+611;Contractor;Marketing;Male;60+;College;Finance Director;Medium;Low;Good;03/05/2023;;133440,7
+612;Contractor;HR;Female;40-50;Doctor;Sales Executive;Very High;Excellent;Bad;09/03/2023;;109932,07
+613;Full-time;IT;Female;40-50;Bachelor;Sales Executive;High;Outstanding;Good;05/01/2023;;115758,59
+614;Contractor;Research & Development;Female;Below 20;Master;HR Specialist;Medium;Excellent;Better;13/10/2024;;136238,63
+615;Contractor;HR;Female;60+;Master;IT Analyst;Very High;Excellent;Best;12/07/2023;;55714,8
+616;Contractor;Marketing;Female;30-40;Below College;HR Specialist;Medium;Low;Good;02/12/2023;;152474,86
+617;Contractor;Sales;Female;40-50;Bachelor;Finance Director;High;Good;Best;11/11/2023;;157661,75
+618;Contractor;Marketing;Female;20-30;Below College;Finance Director;High;Outstanding;Bad;10/04/2023;;109040,67
+619;Full-time;Research & Development;Male;50-60;Doctor;Sales Executive;Medium;Excellent;Better;18/12/2023;;132828,48
+620;Full-time;Sales;Male;Below 20;Master;IT Analyst;Low;Excellent;Best;14/01/2023;;109109,75
+621;Contractor;Sales;Female;40-50;College;IT Analyst;Medium;Outstanding;Bad;25/03/2023;;114735,2
+622;Full-time;Research & Development;Female;60+;Bachelor;IT Analyst;Low;Good;Bad;06/01/2023;;115094,96
+623;Full-time;Finance;Female;30-40;Master;Sales Executive;Very High;Good;Better;12/06/2023;;116969,98
+624;Full-time;HR;Female;Below 20;College;Finance Director;Medium;Low;Bad;13/07/2023;29/11/2024;115086
+625;Full-time;Research & Development;Male;60+;Below College;IT Analyst;High;Excellent;Best;05/03/2023;;176596,43
+626;Contractor;IT;Female;Below 20;College;Finance Director;Medium;Good;Better;16/07/2023;;134737,57
+627;Full-time;Marketing;Male;50-60;Bachelor;Manager;Very High;Low;Better;11/02/2023;;78932,96
+628;Full-time;Finance;Female;40-50;College;Sales Executive;Low;Excellent;Better;07/05/2023;;176755,93
+629;Full-time;Marketing;Female;30-40;Bachelor;Finance Director;Medium;Low;Good;24/09/2023;;141190,58
+630;Contractor;Finance;Female;20-30;Below College;Finance Director;High;Outstanding;Bad;11/02/2023;;77512,62
+631;Full-time;Marketing;Male;40-50;Doctor;Sales Executive;Very High;Good;Better;07/07/2023;;145037,28
+632;Contractor;Finance;Male;40-50;Master;IT Analyst;Low;Excellent;Bad;27/05/2023;;88285,63
+633;Full-time;Finance;Male;30-40;Bachelor;IT Analyst;High;Low;Bad;09/08/2023;;114596,24
+634;Full-time;HR;Male;40-50;Below College;Finance Director;Very High;Good;Best;01/08/2023;;101839,65
+635;Contractor;Sales;Female;50-60;Doctor;Finance Director;Low;Low;Good;10/10/2023;;159064,47
+636;Contractor;Sales;Female;50-60;Doctor;Sales Executive;High;Excellent;Better;09/11/2024;;176841,9
+637;Full-time;IT;Other;30-40;Bachelor;Manager;Very High;Good;Good;28/08/2023;;169272,95
+638;Contractor;Marketing;Male;60+;Doctor;Finance Director;High;Excellent;Best;13/01/2023;17/12/2024;67303,78
+639;Full-time;Research & Development;Female;50-60;Master;HR Specialist;High;Low;Good;20/12/2023;;153492,56
+640;Contractor;Sales;Male;Below 20;Doctor;Manager;Very High;Good;Best;08/07/2023;28/07/2024;64176,91
+641;Full-time;Marketing;Other;Below 20;Below College;Sales Executive;High;Low;Best;04/11/2023;;59346,49
+642;Full-time;HR;Female;60+;Master;IT Analyst;Medium;Outstanding;Better;01/06/2023;;57031,31
+643;Full-time;Finance;Male;20-30;Doctor;Sales Executive;High;Outstanding;Good;27/03/2023;;106656,95
+644;Full-time;Marketing;Female;Below 20;Bachelor;Finance Director;High;Low;Bad;28/11/2023;;72593,48
+645;Contractor;HR;Female;50-60;College;Manager;Very High;Outstanding;Bad;19/07/2023;;111078,81
+646;Full-time;IT;Female;Below 20;Below College;Manager;Low;Good;Bad;05/03/2023;;187869,87
+647;Contractor;Marketing;Male;50-60;Bachelor;Research Scientist;Very High;Good;Best;13/12/2023;;126052,54
+648;Contractor;Finance;Female;30-40;Below College;Finance Director;Low;Good;Better;20/07/2023;;68605,86
+649;Full-time;HR;Female;60+;Bachelor;HR Specialist;Very High;Good;Bad;13/06/2023;;132043,04
+650;Full-time;Sales;Male;Below 20;Master;Research Scientist;Low;Low;Better;16/09/2024;;105339,13
+651;Contractor;Sales;Female;60+;Below College;Finance Director;High;Low;Bad;22/05/2023;;114990,84
+652;Full-time;Marketing;Male;30-40;Doctor;Manager;Very High;Low;Best;26/08/2023;;108974,52
+653;Full-time;Marketing;Female;50-60;Bachelor;Sales Executive;Very High;Outstanding;Better;24/06/2023;09/11/2024;144055,3
+654;Contractor;Marketing;Male;50-60;Bachelor;Finance Director;High;Excellent;Best;25/06/2023;;124008,2
+655;Contractor;IT;Male;40-50;College;IT Analyst;Medium;Outstanding;Best;17/05/2023;19/10/2024;155804,44
+656;Full-time;Marketing;Male;40-50;Master;IT Analyst;Medium;Excellent;Good;22/04/2023;;61486,94
+657;Contractor;Finance;Female;50-60;College;Manager;Low;Good;Good;16/01/2023;;131072,66
+658;Contractor;IT;Female;40-50;Below College;Finance Director;Very High;Excellent;Bad;16/09/2024;;79452,94
+659;Full-time;Finance;Male;50-60;Master;Sales Executive;High;Low;Better;19/04/2023;12/09/2024;154077,68
+660;Contractor;Marketing;Female;20-30;Doctor;Manager;Very High;Good;Best;04/03/2023;;126531,73
+661;Full-time;IT;Male;20-30;Below College;Manager;High;Outstanding;Bad;20/07/2023;;107941,47
+662;Contractor;HR;Male;30-40;Master;Sales Executive;Low;Good;Good;15/02/2023;30/03/2024;88993,13
+663;Full-time;HR;Female;40-50;Below College;Sales Executive;High;Outstanding;Better;26/10/2023;;111308,34
+664;Full-time;IT;Male;50-60;Bachelor;HR Specialist;Low;Low;Best;28/07/2023;;178134,37
+665;Full-time;Sales;Male;50-60;Master;IT Analyst;Medium;Good;Good;17/09/2024;;173435,29
+666;Contractor;Sales;Female;20-30;Master;Finance Director;High;Excellent;Good;12/08/2023;;146878,5
+667;Full-time;Sales;Other;20-30;Below College;Research Scientist;Low;Outstanding;Better;26/03/2023;;157295,13
+668;Full-time;HR;Female;40-50;Doctor;HR Specialist;High;Excellent;Best;05/02/2023;;81000,96
+669;Contractor;Marketing;Other;20-30;Bachelor;Finance Director;Medium;Good;Best;06/02/2023;;74215,39
+670;Contractor;Research & Development;Male;20-30;Bachelor;IT Analyst;Very High;Outstanding;Better;13/02/2023;;88820,55
+671;Full-time;Finance;Female;40-50;Master;IT Analyst;Very High;Excellent;Better;23/07/2023;;99683,39
+672;Contractor;Research & Development;Male;20-30;Below College;Manager;Medium;Outstanding;Good;22/01/2023;;170030,97
+673;Contractor;Finance;Female;60+;Doctor;Sales Executive;Very High;Good;Good;21/12/2023;;123288,52
+674;Contractor;HR;Female;50-60;Doctor;HR Specialist;Medium;Good;Bad;09/09/2023;;145142,01
+675;Contractor;HR;Female;60+;College;HR Specialist;Very High;Good;Best;25/08/2023;;52835,75
+676;Contractor;Research & Development;Other;50-60;Bachelor;Finance Director;Medium;Outstanding;Better;04/09/2023;;186620,62
+677;Full-time;Sales;Male;50-60;College;Finance Director;Medium;Good;Best;23/10/2024;;130148,45
+678;Full-time;Sales;Male;20-30;Master;IT Analyst;Low;Excellent;Bad;28/07/2023;;91178,41
+679;Full-time;Finance;Male;40-50;Master;IT Analyst;Low;Excellent;Better;10/06/2023;;166121,49
+680;Full-time;Finance;Male;50-60;Doctor;Finance Director;Medium;Outstanding;Better;04/02/2023;;181822,15
+681;Contractor;Research & Development;Female;20-30;College;HR Specialist;Very High;Outstanding;Bad;01/05/2023;;108687,27
+682;Full-time;Research & Development;Male;60+;Master;HR Specialist;Low;Low;Good;23/10/2023;;148483,35
+683;Full-time;Marketing;Male;60+;Doctor;Research Scientist;Very High;Outstanding;Better;03/12/2023;;118948,75
+684;Full-time;Sales;Male;40-50;College;Research Scientist;Low;Good;Good;06/08/2023;;127551,32
+685;Full-time;IT;Male;Below 20;College;Manager;Low;Outstanding;Better;28/01/2023;;197530,37
+686;Contractor;Research & Development;Female;50-60;Below College;IT Analyst;High;Outstanding;Best;08/07/2023;;106147,41
+687;Full-time;Finance;Male;50-60;Doctor;Sales Executive;Very High;Excellent;Bad;06/11/2023;;165586,7
+688;Contractor;Research & Development;Male;30-40;College;Sales Executive;High;Outstanding;Better;23/02/2023;;101750,14
+689;Contractor;Finance;Male;50-60;Bachelor;Finance Director;Medium;Outstanding;Bad;05/11/2023;;118664,2
+690;Contractor;Sales;Male;40-50;Master;Research Scientist;Medium;Good;Good;02/12/2023;;152704,99
+691;Contractor;Sales;Male;Below 20;College;HR Specialist;Low;Good;Good;28/08/2023;;102693,14
+692;Full-time;Sales;Female;Below 20;College;Manager;Low;Good;Bad;21/08/2023;;178340,18
+693;Contractor;HR;Male;20-30;Doctor;Sales Executive;Very High;Excellent;Better;13/01/2023;;108244,4
+694;Contractor;Marketing;Male;Below 20;Master;Sales Executive;Low;Good;Good;24/12/2023;;75398,45
+695;Full-time;Finance;Female;Below 20;Doctor;Finance Director;Medium;Low;Bad;24/12/2023;;129404,41
+696;Contractor;Sales;Male;60+;College;IT Analyst;Low;Excellent;Better;16/12/2023;;105869,48
+697;Full-time;Finance;Male;30-40;Master;Sales Executive;High;Good;Good;10/12/2023;;144218,61
+698;Contractor;Marketing;Other;50-60;College;Research Scientist;High;Good;Bad;19/12/2023;;132033,76
+699;Full-time;Sales;Female;40-50;Bachelor;Research Scientist;Very High;Low;Best;26/12/2023;;67839,61
+700;Full-time;IT;Female;Below 20;Doctor;Research Scientist;Low;Low;Better;20/01/2023;;146840,91
+701;Full-time;Sales;Male;30-40;Below College;IT Analyst;Very High;Excellent;Best;03/01/2023;;114815,89
+702;Full-time;Finance;Female;Below 20;Master;HR Specialist;Low;Outstanding;Bad;17/11/2023;;83707,46
+703;Contractor;Finance;Male;50-60;Master;Finance Director;Very High;Outstanding;Good;18/07/2023;;100643,55
+704;Contractor;Sales;Male;20-30;College;Manager;High;Excellent;Good;08/11/2024;;178714,2
+705;Full-time;Marketing;Female;30-40;Doctor;Research Scientist;Very High;Outstanding;Good;09/02/2023;;121367,24
+706;Contractor;Finance;Male;20-30;Master;Research Scientist;Low;Good;Bad;26/12/2023;;150956,62
+707;Contractor;IT;Female;20-30;Bachelor;HR Specialist;Very High;Excellent;Bad;23/01/2023;;184302,97
+708;Full-time;Sales;Female;40-50;Bachelor;Research Scientist;Medium;Excellent;Good;11/03/2023;;104009,47
+709;Full-time;IT;Male;50-60;College;Sales Executive;Medium;Excellent;Best;15/08/2023;;114366,6
+710;Full-time;HR;Male;30-40;Bachelor;HR Specialist;Low;Outstanding;Best;23/07/2023;;92262,45
+711;Contractor;Finance;Other;40-50;Below College;Sales Executive;Medium;Low;Bad;03/03/2023;;132432,92
+712;Full-time;Sales;Female;30-40;Below College;Research Scientist;Medium;Outstanding;Good;17/07/2023;;120619,15
+713;Full-time;IT;Female;50-60;Bachelor;IT Analyst;Low;Excellent;Best;10/11/2023;;76341,19
+714;Contractor;IT;Male;50-60;Master;HR Specialist;Medium;Good;Good;17/04/2023;20/10/2024;178098,74
+715;Full-time;HR;Male;Below 20;Below College;IT Analyst;Low;Good;Better;02/06/2023;;151033,98
+716;Contractor;Research & Development;Male;Below 20;College;HR Specialist;High;Low;Good;11/02/2023;;103871,62
+717;Full-time;Marketing;Female;20-30;Bachelor;Sales Executive;High;Outstanding;Best;20/03/2023;;69045,43
+718;Full-time;Research & Development;Male;60+;Below College;HR Specialist;Low;Outstanding;Best;04/12/2023;;78435,49
+719;Contractor;Finance;Female;20-30;College;HR Specialist;High;Outstanding;Good;12/01/2023;;89382,73
+720;Contractor;IT;Male;20-30;Bachelor;Research Scientist;Very High;Outstanding;Best;28/04/2023;;172586,14
+721;Contractor;Finance;Male;60+;Bachelor;Research Scientist;Medium;Excellent;Good;24/09/2023;;91036,31
+722;Full-time;HR;Male;60+;Below College;IT Analyst;Very High;Outstanding;Best;18/05/2023;;119175,14
+723;Full-time;Finance;Female;20-30;Bachelor;Manager;High;Good;Best;11/05/2023;;148112,89
+724;Full-time;Marketing;Male;50-60;Master;Sales Executive;Medium;Low;Bad;05/12/2023;;126073,12
+725;Full-time;Research & Development;Male;50-60;Bachelor;Manager;High;Outstanding;Better;11/08/2023;;79121,37
+726;Full-time;IT;Male;60+;Below College;Research Scientist;High;Outstanding;Good;25/10/2023;;100863,33
+727;Full-time;IT;Male;20-30;College;Sales Executive;High;Good;Better;16/01/2023;;98698,74
+728;Full-time;IT;Female;30-40;Bachelor;Sales Executive;Low;Good;Better;20/03/2023;;144865,37
+729;Full-time;Finance;Male;40-50;Master;IT Analyst;Very High;Low;Better;18/06/2023;;151193,42
+730;Full-time;Marketing;Female;60+;Master;Sales Executive;High;Outstanding;Good;09/07/2023;;144237,6
+731;Full-time;HR;Other;40-50;Master;Sales Executive;High;Good;Better;23/09/2024;;80714,76
+732;Contractor;Marketing;Male;Below 20;Master;IT Analyst;Very High;Good;Better;07/03/2023;;119686,66
+733;Contractor;Research & Development;Male;Below 20;Master;IT Analyst;High;Good;Better;03/11/2023;;167037,47
+734;Contractor;IT;Male;50-60;Master;IT Analyst;Very High;Outstanding;Best;09/03/2023;;169725,74
+735;Contractor;Research & Development;Female;30-40;College;Manager;Low;Good;Bad;21/05/2023;;138664,18
+736;Full-time;Research & Development;Male;50-60;Doctor;IT Analyst;Medium;Good;Better;13/01/2023;;89951,98
+737;Contractor;IT;Male;60+;Doctor;HR Specialist;Very High;Good;Best;19/01/2023;24/09/2024;81526,27
+738;Full-time;Finance;Male;30-40;Below College;HR Specialist;Low;Low;Bad;08/08/2023;;124811,6
+739;Full-time;Marketing;Female;30-40;Doctor;Manager;Medium;Excellent;Bad;06/04/2023;;108380,81
+740;Contractor;Finance;Female;30-40;Doctor;HR Specialist;Very High;Low;Good;01/06/2023;;106499,5
+741;Contractor;Sales;Male;60+;Bachelor;Sales Executive;Medium;Outstanding;Best;06/05/2023;;90465,85
+742;Contractor;HR;Male;60+;Below College;HR Specialist;Low;Outstanding;Bad;20/02/2023;;130182,7
+743;Contractor;Research & Development;Female;Below 20;College;Finance Director;Very High;Good;Bad;22/04/2023;;117653,76
+744;Contractor;HR;Other;30-40;Bachelor;Research Scientist;Low;Excellent;Bad;01/08/2023;;96936,4
+745;Full-time;Finance;Male;30-40;Master;Sales Executive;Low;Excellent;Bad;10/10/2024;;74662,56
+746;Contractor;Finance;Male;50-60;Below College;Finance Director;Very High;Low;Bad;07/09/2023;;177937,49
+747;Contractor;Sales;Male;20-30;Master;Research Scientist;High;Good;Best;12/10/2024;;138313,2
+748;Full-time;Marketing;Other;Below 20;College;IT Analyst;Low;Outstanding;Best;27/09/2023;;60064,4
+749;Contractor;HR;Male;40-50;Bachelor;IT Analyst;High;Excellent;Good;02/07/2023;;136148,03
+750;Contractor;HR;Male;Below 20;Doctor;Sales Executive;Medium;Low;Better;09/07/2023;;136564,37
+751;Contractor;Finance;Male;20-30;Doctor;Sales Executive;Low;Outstanding;Good;17/06/2023;;151031,87
+752;Contractor;HR;Other;60+;College;IT Analyst;High;Low;Bad;05/08/2023;20/08/2024;53140,97
+753;Contractor;Research & Development;Other;Below 20;Master;IT Analyst;High;Low;Best;22/12/2023;;69309,98
+754;Full-time;IT;Female;30-40;Bachelor;IT Analyst;Very High;Outstanding;Better;01/03/2023;;143115,77
+755;Full-time;Marketing;Male;30-40;Master;HR Specialist;Low;Outstanding;Best;11/06/2023;17/07/2024;57206,82
+756;Contractor;Marketing;Female;40-50;Doctor;Finance Director;Low;Outstanding;Bad;25/01/2023;;80174,27
+757;Contractor;Marketing;Male;20-30;College;Manager;Very High;Excellent;Bad;21/05/2023;;75329,25
+758;Contractor;Marketing;Male;60+;Bachelor;Finance Director;Medium;Excellent;Good;08/11/2024;;86115,85
+759;Contractor;HR;Male;Below 20;Master;Sales Executive;High;Outstanding;Best;06/06/2023;;136819,65
+760;Contractor;Sales;Other;50-60;Master;Finance Director;Low;Excellent;Good;26/08/2023;;93757,8
+761;Full-time;Research & Development;Male;Below 20;Master;IT Analyst;Medium;Good;Good;23/09/2023;;194541,38
+762;Contractor;Research & Development;Female;50-60;Doctor;Sales Executive;High;Good;Better;26/07/2023;;110092,74
+763;Full-time;Research & Development;Male;60+;Master;Manager;Low;Good;Good;26/03/2023;;114045,62
+764;Full-time;Sales;Other;Below 20;Doctor;Research Scientist;Medium;Excellent;Good;15/12/2023;;103267,43
+765;Full-time;HR;Male;40-50;Below College;IT Analyst;Low;Low;Bad;06/06/2023;;88066,01
+766;Contractor;IT;Female;Below 20;Master;Research Scientist;Low;Excellent;Bad;07/10/2023;;150037,05
+767;Full-time;Research & Development;Male;20-30;Master;HR Specialist;Low;Good;Good;23/04/2023;;178962,69
+768;Full-time;Finance;Male;40-50;Bachelor;Finance Director;Medium;Good;Good;14/08/2023;;66432,49
+769;Contractor;HR;Male;60+;Master;Research Scientist;High;Excellent;Bad;08/03/2023;;129313,39
+770;Full-time;Sales;Female;60+;College;HR Specialist;Medium;Low;Good;17/04/2023;;79289,93
+771;Contractor;IT;Other;50-60;Bachelor;Manager;Medium;Good;Good;17/03/2023;;86599,91
+772;Full-time;IT;Female;Below 20;Below College;IT Analyst;Medium;Excellent;Good;24/12/2023;;199154,25
+773;Full-time;HR;Female;40-50;Bachelor;Sales Executive;Very High;Excellent;Good;20/03/2023;;132503,52
+774;Full-time;Marketing;Female;20-30;Below College;HR Specialist;Low;Excellent;Good;23/02/2023;;101741,15
+775;Contractor;Marketing;Female;30-40;Bachelor;Finance Director;Low;Excellent;Better;02/02/2023;;115437,8
+776;Contractor;Sales;Male;30-40;Master;Finance Director;Medium;Outstanding;Better;07/11/2024;;107665,43
+777;Full-time;Finance;Male;Below 20;Below College;Research Scientist;Low;Low;Better;26/05/2023;18/12/2024;106325,44
+778;Full-time;Finance;Female;40-50;Master;HR Specialist;Low;Good;Bad;05/07/2023;;144574,15
+779;Contractor;Research & Development;Male;50-60;Master;Manager;High;Outstanding;Best;04/07/2023;;101992,76
+780;Full-time;Marketing;Male;30-40;Doctor;Sales Executive;Medium;Good;Best;12/02/2023;;133621,32
+781;Contractor;Marketing;Male;50-60;College;Sales Executive;High;Good;Better;04/03/2023;;153850,67
+782;Contractor;IT;Male;50-60;Master;Research Scientist;Medium;Low;Better;12/04/2023;;120617,49
+783;Full-time;IT;Female;60+;Doctor;HR Specialist;Medium;Low;Better;15/11/2023;;134643,64
+784;Contractor;IT;Female;30-40;Below College;HR Specialist;Medium;Outstanding;Bad;09/09/2023;;101968,42
+785;Contractor;IT;Female;50-60;Bachelor;IT Analyst;Very High;Excellent;Good;26/07/2023;;95812,4
+786;Contractor;Research & Development;Male;60+;Doctor;Sales Executive;Very High;Excellent;Better;28/02/2023;;102698,4
+787;Contractor;HR;Male;Below 20;Bachelor;Manager;Very High;Good;Bad;17/05/2023;03/09/2024;114271,68
+788;Full-time;Sales;Male;Below 20;Master;Research Scientist;Medium;Good;Bad;05/12/2023;;123285,06
+789;Contractor;Sales;Female;30-40;Doctor;Manager;Medium;Good;Best;16/11/2023;;78939
+790;Contractor;Sales;Other;Below 20;Bachelor;HR Specialist;Medium;Good;Bad;15/04/2023;;167558,52
+791;Contractor;Marketing;Male;40-50;Master;HR Specialist;Medium;Outstanding;Good;05/10/2023;;114281,31
+792;Full-time;Research & Development;Male;60+;College;Manager;Low;Excellent;Good;24/07/2023;;127930,71
+793;Full-time;HR;Female;20-30;College;Manager;Low;Low;Better;25/01/2023;;113415,93
+794;Contractor;Marketing;Male;60+;Below College;Finance Director;Low;Excellent;Best;10/09/2024;;133082,17
+795;Full-time;Finance;Male;20-30;College;IT Analyst;Medium;Good;Good;21/06/2023;;122002,25
+796;Full-time;HR;Female;40-50;Bachelor;IT Analyst;High;Good;Bad;21/06/2023;;126851,9
+797;Full-time;HR;Male;40-50;Bachelor;HR Specialist;Very High;Outstanding;Good;19/12/2023;;138389,43
+798;Contractor;Sales;Male;50-60;Doctor;Sales Executive;Medium;Low;Good;02/05/2023;;86869,41
+799;Contractor;Research & Development;Other;40-50;Bachelor;Sales Executive;High;Outstanding;Better;12/04/2023;;194389,99
+800;Contractor;HR;Female;40-50;College;HR Specialist;High;Excellent;Better;24/07/2023;;60992,84
+801;Full-time;Marketing;Male;50-60;Master;Research Scientist;High;Excellent;Bad;06/04/2024;;85869,92
+802;Contractor;Marketing;Female;60+;Doctor;IT Analyst;Very High;Excellent;Better;01/02/2024;;82831,65
+803;Contractor;Sales;Female;60+;Below College;Research Scientist;High;Excellent;Good;13/08/2024;;72798,78
+804;Contractor;Marketing;Male;Below 20;Below College;HR Specialist;High;Good;Better;11/08/2024;;90998,77
+805;Full-time;Sales;Female;30-40;Bachelor;Sales Executive;Very High;Good;Best;18/11/2024;;103941,49
+806;Full-time;Research & Development;Female;30-40;Bachelor;Manager;Medium;Low;Best;25/07/2024;;152527,34
+807;Full-time;IT;Male;40-50;Master;Research Scientist;Very High;Outstanding;Better;11/08/2024;;189992,87
+808;Contractor;HR;Male;40-50;Master;IT Analyst;High;Good;Bad;04/07/2024;;142321,32
+809;Contractor;HR;Female;50-60;Below College;Finance Director;Low;Outstanding;Best;02/10/2024;;94706,52
+810;Full-time;HR;Male;40-50;Below College;Manager;Medium;Good;Best;02/12/2024;;89324,83
+811;Full-time;Research & Development;Male;60+;Bachelor;Manager;Medium;Good;Best;20/07/2024;;144760,87
+812;Full-time;Research & Development;Other;30-40;Master;IT Analyst;High;Good;Best;22/09/2022;;72319,45
+813;Contractor;HR;Female;40-50;Bachelor;Manager;Low;Good;Bad;04/05/2024;;66390,53
+814;Contractor;HR;Female;50-60;Doctor;Finance Director;Medium;Good;Bad;21/07/2024;;137269,3
+815;Full-time;Finance;Male;30-40;Master;Research Scientist;High;Outstanding;Good;05/08/2022;;120172,51
+816;Contractor;IT;Male;30-40;Master;Sales Executive;Very High;Outstanding;Best;07/01/2024;;82812,55
+817;Contractor;HR;Other;60+;Bachelor;HR Specialist;Very High;Excellent;Best;19/05/2024;;122139,56
+818;Full-time;Sales;Female;50-60;College;Research Scientist;High;Outstanding;Better;23/10/2024;;94144,4
+819;Full-time;Sales;Other;40-50;Below College;IT Analyst;Low;Excellent;Good;07/06/2024;;69572,78
+820;Full-time;Marketing;Female;20-30;Doctor;Research Scientist;Medium;Outstanding;Bad;12/04/2024;;70311,15
+821;Contractor;Marketing;Male;20-30;Doctor;Finance Director;Low;Good;Better;12/05/2024;;64775,98
+822;Contractor;Marketing;Female;50-60;Bachelor;Finance Director;Medium;Low;Best;14/07/2024;;132186,16
+823;Contractor;Marketing;Male;40-50;Below College;Finance Director;Medium;Outstanding;Good;13/09/2021;;71725,06
+824;Contractor;HR;Male;20-30;Bachelor;IT Analyst;Very High;Outstanding;Best;14/10/2024;;53933,88
+825;Full-time;IT;Male;30-40;Below College;Finance Director;Very High;Excellent;Bad;15/09/2024;;131811,68
+826;Full-time;HR;Male;50-60;Master;IT Analyst;Low;Excellent;Good;12/04/2024;;88967,26
+827;Full-time;IT;Male;40-50;Doctor;HR Specialist;Low;Outstanding;Better;10/01/2024;;73416,42
+828;Contractor;Research & Development;Male;20-30;Doctor;Manager;Very High;Good;Better;25/11/2024;;176299,64
+829;Full-time;Research & Development;Female;Below 20;College;Manager;Very High;Low;Better;18/08/2024;;148007,1
+830;Contractor;Sales;Female;40-50;Below College;Manager;High;Outstanding;Best;16/10/2024;;109058,74
+831;Full-time;HR;Male;Below 20;Doctor;Manager;Medium;Excellent;Best;11/05/2024;;90383,2
+832;Full-time;Finance;Female;40-50;Bachelor;IT Analyst;High;Low;Bad;19/02/2024;;104151,47
+833;Contractor;Research & Development;Female;60+;College;Research Scientist;High;Good;Bad;17/10/2024;;75787,65
+834;Full-time;Marketing;Male;50-60;Master;Research Scientist;Medium;Good;Better;19/08/2024;;124175,28
+835;Contractor;IT;Other;40-50;Master;Sales Executive;High;Good;Bad;11/07/2021;;143244,52
+836;Contractor;Research & Development;Female;40-50;Master;Research Scientist;High;Good;Good;14/11/2024;;170503,74
+837;Full-time;HR;Male;40-50;Master;HR Specialist;Medium;Low;Best;22/06/2024;;82643,86
+838;Contractor;Research & Development;Male;50-60;Below College;Finance Director;Medium;Outstanding;Better;09/06/2024;;163387,98
+839;Contractor;Marketing;Male;50-60;Doctor;IT Analyst;High;Low;Bad;21/01/2024;;92824,51
+840;Contractor;Sales;Female;50-60;Bachelor;IT Analyst;High;Outstanding;Best;14/11/2024;;82773,71
+841;Full-time;HR;Female;50-60;Doctor;IT Analyst;High;Low;Better;01/04/2024;;152750,93
+842;Contractor;Finance;Other;50-60;College;IT Analyst;High;Excellent;Better;19/01/2024;;116193,89
+843;Contractor;HR;Female;Below 20;Bachelor;Research Scientist;Low;Low;Bad;19/05/2024;;157698,6
+844;Full-time;Marketing;Female;40-50;College;Sales Executive;Low;Excellent;Best;14/09/2021;;152574,73
+845;Contractor;HR;Other;40-50;Below College;IT Analyst;Very High;Outstanding;Best;13/06/2024;;107269,18
+846;Contractor;Finance;Male;60+;College;Manager;High;Outstanding;Good;04/07/2024;;155723,48
+847;Contractor;HR;Male;60+;Doctor;Manager;Low;Excellent;Good;01/08/2024;;126962,33
+848;Full-time;Research & Development;Female;Below 20;Doctor;Manager;High;Excellent;Best;21/02/2024;;128098,61
+849;Contractor;HR;Male;30-40;Bachelor;Finance Director;High;Excellent;Best;10/03/2024;;122457,77
+850;Full-time;Sales;Male;40-50;Bachelor;Finance Director;High;Low;Bad;04/09/2024;;78198,14
+851;Full-time;IT;Female;Below 20;Doctor;Sales Executive;Very High;Outstanding;Good;09/04/2024;;129197,28
+852;Contractor;Sales;Male;30-40;Below College;Finance Director;Low;Excellent;Good;27/02/2024;;95779,19
+853;Full-time;HR;Male;Below 20;College;Finance Director;Low;Excellent;Better;11/07/2021;;91824,3
+854;Contractor;IT;Female;40-50;Master;IT Analyst;Very High;Excellent;Bad;23/04/2024;;185158,14
+855;Contractor;Marketing;Male;20-30;Bachelor;IT Analyst;High;Excellent;Good;07/08/2022;;159588,58
+856;Contractor;IT;Male;50-60;Master;Research Scientist;Medium;Low;Bad;02/04/2024;;91426,59
+857;Full-time;Finance;Female;50-60;Bachelor;Manager;Medium;Excellent;Best;26/02/2024;;102521,34
+858;Full-time;HR;Female;50-60;Doctor;Sales Executive;Medium;Outstanding;Best;19/10/2024;;108480,83
+859;Full-time;Sales;Female;40-50;Bachelor;Finance Director;Low;Excellent;Good;14/09/2024;;74196,21
+860;Contractor;Sales;Female;20-30;Bachelor;Sales Executive;Very High;Excellent;Best;22/11/2024;;155751,13
+861;Contractor;Marketing;Male;50-60;Doctor;Manager;Low;Excellent;Best;21/07/2024;;90792,34
+862;Full-time;Sales;Female;60+;College;IT Analyst;High;Good;Good;24/08/2024;;115029,59
+863;Full-time;Sales;Male;60+;Bachelor;Manager;High;Excellent;Better;24/06/2024;;96820,4
+864;Contractor;Marketing;Male;50-60;Below College;Manager;Medium;Excellent;Good;20/08/2024;;117248,43
+865;Contractor;Sales;Male;50-60;Master;HR Specialist;Medium;Low;Bad;19/12/2024;;85569,98
+866;Contractor;HR;Male;50-60;Master;Research Scientist;High;Excellent;Better;11/01/2024;;73805,29
+867;Contractor;Finance;Female;Below 20;College;HR Specialist;High;Good;Better;10/04/2024;;118388,2
+868;Full-time;IT;Other;30-40;Master;Research Scientist;High;Low;Good;27/02/2024;;151877,7
+869;Contractor;Finance;Female;40-50;Below College;HR Specialist;Very High;Low;Best;14/05/2024;;194133,14
+870;Contractor;IT;Female;Below 20;College;HR Specialist;Low;Low;Bad;27/02/2024;;114502,27
+871;Contractor;Marketing;Female;60+;Below College;Sales Executive;Medium;Outstanding;Best;09/08/2024;;82568,48
+872;Contractor;Sales;Other;60+;Master;IT Analyst;High;Low;Best;11/09/2021;;95649,68
+873;Full-time;IT;Male;30-40;Master;Finance Director;High;Excellent;Better;27/04/2024;;142432
+874;Contractor;HR;Male;Below 20;Doctor;Sales Executive;Medium;Outstanding;Bad;17/07/2024;;90775,27
+875;Full-time;Marketing;Other;20-30;Doctor;Manager;Very High;Outstanding;Better;20/02/2024;;164585,17
+876;Contractor;Marketing;Male;60+;College;Research Scientist;High;Low;Bad;04/04/2024;;98625,28
+877;Full-time;HR;Female;60+;Bachelor;HR Specialist;Very High;Excellent;Bad;14/12/2024;;121629,58
+878;Contractor;Sales;Female;20-30;Doctor;HR Specialist;High;Outstanding;Good;01/01/2024;;158611,91
+879;Full-time;Marketing;Male;50-60;Master;HR Specialist;Low;Low;Better;25/12/2024;;122123,18
+880;Full-time;Research & Development;Female;60+;Bachelor;IT Analyst;Medium;Good;Best;11/08/2024;;189608,51
+881;Full-time;Finance;Other;Below 20;Below College;Sales Executive;High;Low;Bad;02/03/2024;;85410,27
+882;Full-time;Marketing;Male;60+;College;Sales Executive;High;Excellent;Better;07/04/2024;;59440,04
+883;Full-time;Sales;Other;60+;Master;Manager;Medium;Excellent;Better;27/11/2024;;159121,6
+884;Contractor;HR;Male;30-40;Bachelor;HR Specialist;Medium;Outstanding;Bad;11/11/2024;;81884,57
+885;Full-time;Sales;Male;60+;College;Research Scientist;Very High;Low;Bad;16/07/2024;;111042,42
+886;Full-time;Research & Development;Female;60+;Bachelor;HR Specialist;Very High;Outstanding;Bad;11/11/2024;;186544,3
+887;Contractor;Finance;Female;50-60;College;Manager;Very High;Excellent;Best;21/07/2021;;156536,58
+888;Contractor;Research & Development;Male;60+;Doctor;Finance Director;Low;Excellent;Bad;04/03/2024;;122998,07
+889;Contractor;Marketing;Male;40-50;Master;Manager;Low;Outstanding;Good;01/04/2024;;88570,98
+890;Full-time;Research & Development;Other;50-60;Below College;Research Scientist;Very High;Excellent;Best;23/07/2021;;127752,2
+891;Contractor;Sales;Male;50-60;College;Sales Executive;Very High;Low;Good;02/09/2024;;76029,22
+892;Contractor;Sales;Male;40-50;College;IT Analyst;High;Excellent;Bad;02/06/2024;;118947,49
+893;Full-time;Sales;Other;40-50;Below College;Research Scientist;Medium;Excellent;Good;12/08/2024;;161771,16
+894;Contractor;IT;Male;30-40;Master;Manager;Very High;Good;Good;24/08/2024;;153785,85
+895;Contractor;IT;Female;20-30;Doctor;IT Analyst;Low;Low;Better;12/09/2021;;116071,15
+896;Contractor;Finance;Female;60+;Bachelor;Finance Director;Very High;Excellent;Bad;13/12/2024;;90911,64
+897;Contractor;HR;Female;Below 20;College;Finance Director;Low;Low;Better;23/04/2024;;82127,38
+898;Full-time;Research & Development;Male;60+;College;IT Analyst;High;Excellent;Better;11/10/2024;;159110,94
+899;Full-time;Marketing;Other;20-30;Doctor;Research Scientist;Very High;Outstanding;Good;16/12/2024;;123473,22
+900;Full-time;Finance;Female;30-40;Below College;IT Analyst;Medium;Excellent;Good;23/12/2024;;170364,4
+901;Full-time;HR;Female;50-60;Master;Sales Executive;Medium;Low;Better;22/02/2024;;152069,6
+902;Contractor;Research & Development;Female;20-30;Master;Finance Director;Very High;Excellent;Better;11/12/2024;;197844,95
+903;Contractor;Finance;Other;30-40;Doctor;HR Specialist;Very High;Low;Good;07/12/2024;;134031,93
+904;Full-time;Research & Development;Male;40-50;Doctor;HR Specialist;High;Low;Better;10/01/2024;;186351,57
+905;Contractor;IT;Male;60+;Below College;Sales Executive;High;Low;Bad;23/08/2024;;161980,8
+906;Contractor;Marketing;Female;30-40;Below College;Manager;Medium;Excellent;Better;19/01/2024;;142513,16
+907;Contractor;HR;Male;40-50;Doctor;Research Scientist;High;Good;Bad;22/09/2022;;135970,86
+908;Contractor;Sales;Female;20-30;Below College;IT Analyst;Medium;Outstanding;Good;07/08/2022;;141054,69
+909;Contractor;HR;Female;30-40;Bachelor;Finance Director;Low;Good;Bad;17/05/2024;;59280,49
+910;Full-time;Research & Development;Male;30-40;Doctor;Manager;High;Excellent;Good;15/05/2024;;136657,19
+911;Full-time;HR;Female;20-30;Below College;IT Analyst;Medium;Outstanding;Best;14/04/2024;;81178,75
+912;Contractor;Research & Development;Male;60+;Bachelor;Research Scientist;Medium;Good;Best;17/11/2024;;149205,97
+913;Contractor;Research & Development;Male;40-50;Bachelor;Manager;High;Low;Best;01/11/2024;;68802,64
+914;Contractor;Sales;Female;30-40;Below College;Manager;Very High;Excellent;Better;24/12/2024;;176445,43
+915;Full-time;Sales;Male;30-40;College;HR Specialist;Medium;Low;Better;13/12/2024;;93258,64
+916;Full-time;HR;Male;Below 20;Bachelor;IT Analyst;High;Low;Bad;24/12/2024;;80553,78
+917;Contractor;HR;Female;Below 20;Bachelor;IT Analyst;Low;Low;Bad;02/01/2024;;97634,8
+918;Full-time;Marketing;Female;Below 20;Below College;Manager;High;Low;Good;06/03/2024;;121047,79
+919;Contractor;Finance;Female;40-50;Below College;HR Specialist;Very High;Outstanding;Best;09/10/2024;;180700,68
+920;Contractor;HR;Female;40-50;Bachelor;HR Specialist;High;Outstanding;Better;12/02/2024;;141168,72
+921;Full-time;Research & Development;Female;30-40;Below College;Manager;Very High;Excellent;Best;21/05/2024;;137300,05
+922;Full-time;Finance;Other;20-30;Doctor;IT Analyst;Medium;Low;Good;09/01/2024;;150530,81
+923;Full-time;HR;Male;60+;College;Finance Director;High;Excellent;Bad;01/03/2024;;87669
+924;Contractor;Research & Development;Female;60+;Master;Finance Director;Low;Excellent;Good;20/06/2024;;179830,67
+925;Full-time;Marketing;Female;40-50;College;HR Specialist;Medium;Outstanding;Better;19/10/2024;;140681,57
+926;Full-time;Research & Development;Female;60+;Doctor;Manager;High;Excellent;Best;09/02/2024;;192799,97
+927;Full-time;Sales;Male;40-50;Doctor;IT Analyst;High;Outstanding;Best;15/07/2024;;135499,73
+928;Full-time;Marketing;Other;40-50;Below College;Finance Director;Low;Outstanding;Best;26/01/2024;;76146,12
+929;Full-time;Marketing;Male;40-50;Bachelor;Finance Director;Very High;Good;Good;19/03/2024;;130160,68
+930;Contractor;Sales;Female;60+;Bachelor;Research Scientist;Low;Low;Good;15/02/2024;;151099,85
+931;Contractor;Marketing;Male;60+;Master;Research Scientist;High;Outstanding;Better;25/05/2024;;165224,78
+932;Full-time;Marketing;Other;40-50;Below College;Manager;Low;Low;Better;28/05/2024;;75930,66
+933;Contractor;Finance;Male;60+;Doctor;Manager;Low;Outstanding;Best;04/02/2024;;118869,82
+934;Contractor;Research & Development;Male;40-50;Bachelor;HR Specialist;Low;Outstanding;Bad;18/04/2024;;169330,34
+935;Contractor;HR;Male;40-50;College;HR Specialist;Very High;Good;Best;04/01/2024;;119132,32
+936;Contractor;IT;Male;Below 20;Below College;Manager;Medium;Outstanding;Good;10/09/2021;;184273,26
+937;Full-time;Research & Development;Female;60+;Bachelor;HR Specialist;High;Good;Bad;02/10/2024;;85299,47
+938;Contractor;HR;Female;60+;Below College;IT Analyst;Medium;Good;Good;28/12/2024;;90292,33
+939;Contractor;Sales;Other;Below 20;Below College;Research Scientist;High;Good;Best;01/12/2024;;90033,54
+940;Full-time;Research & Development;Male;30-40;Doctor;IT Analyst;Low;Low;Best;01/07/2024;;151190,45
+941;Contractor;Finance;Male;60+;Master;IT Analyst;Low;Outstanding;Best;25/10/2024;;166401,51
+942;Contractor;IT;Male;30-40;Doctor;Finance Director;Medium;Low;Best;08/07/2024;;186123,59
+943;Contractor;Sales;Male;60+;Master;HR Specialist;Medium;Low;Bad;18/08/2024;;70406,36
+944;Contractor;Finance;Male;30-40;Below College;Finance Director;Low;Excellent;Best;13/06/2024;;128982,94
+945;Contractor;Finance;Female;50-60;College;HR Specialist;High;Excellent;Good;08/03/2024;;142335,43
+946;Contractor;Sales;Female;40-50;Master;IT Analyst;Medium;Good;Better;02/10/2024;;158506,32
+947;Full-time;HR;Male;40-50;College;Manager;Low;Excellent;Good;17/02/2024;;118391,46
+948;Contractor;Marketing;Male;30-40;Bachelor;HR Specialist;Medium;Outstanding;Better;22/07/2021;;95613,66
+949;Contractor;Marketing;Male;40-50;Doctor;Sales Executive;Low;Low;Bad;10/07/2024;;141097,37
+950;Full-time;Marketing;Female;Below 20;Doctor;Finance Director;High;Good;Better;12/07/2024;;122804,23
+951;Full-time;Marketing;Male;20-30;Master;Research Scientist;Very High;Outstanding;Bad;10/12/2024;;146425,06
+952;Contractor;Sales;Male;50-60;College;Finance Director;Medium;Good;Best;28/12/2024;;149140,33
+953;Full-time;Sales;Female;50-60;College;Research Scientist;High;Excellent;Better;25/10/2024;;75836,33
+954;Contractor;HR;Male;60+;Below College;Finance Director;High;Low;Best;08/01/2024;;106648,64
+955;Full-time;Research & Development;Female;60+;Bachelor;Research Scientist;Medium;Excellent;Best;25/07/2024;;86345,85
+956;Full-time;HR;Male;50-60;College;Finance Director;Low;Excellent;Good;01/06/2024;;136390,51
+957;Contractor;Research & Development;Male;30-40;Below College;Finance Director;Very High;Low;Good;15/04/2024;;128703,88
+958;Contractor;Finance;Male;60+;Master;Manager;High;Low;Better;27/12/2024;;111007,43
+959;Contractor;IT;Female;20-30;Doctor;Finance Director;Low;Excellent;Good;25/06/2024;;130401,36
+960;Contractor;Marketing;Male;20-30;Doctor;Manager;Low;Excellent;Best;06/09/2024;;137759,78
+961;Contractor;HR;Female;Below 20;Below College;Finance Director;Low;Outstanding;Better;05/08/2024;;147168,77
+962;Contractor;IT;Male;50-60;College;Sales Executive;Medium;Low;Good;24/05/2024;;183915,08
+963;Contractor;Marketing;Male;20-30;Below College;Finance Director;Medium;Outstanding;Good;24/08/2024;;117148,72
+964;Contractor;Finance;Female;30-40;Doctor;IT Analyst;High;Low;Bad;05/05/2024;;70323,87
+965;Full-time;Finance;Male;30-40;College;Manager;Low;Low;Good;11/01/2024;;156494,42
+966;Contractor;Marketing;Female;20-30;Doctor;Manager;Low;Excellent;Bad;04/06/2024;;73513,56
+967;Full-time;HR;Other;30-40;Doctor;HR Specialist;High;Good;Best;08/09/2021;;98277,39
+968;Contractor;Finance;Male;50-60;College;IT Analyst;Very High;Good;Good;19/11/2024;;150340,33
+969;Full-time;Marketing;Male;60+;Doctor;Sales Executive;Medium;Outstanding;Best;24/12/2024;;84053,3
+970;Contractor;Marketing;Male;60+;College;IT Analyst;Very High;Outstanding;Good;01/10/2022;;67031,81
+971;Full-time;Sales;Male;60+;Below College;Research Scientist;High;Outstanding;Good;16/01/2024;;102456,56
+972;Contractor;Research & Development;Female;60+;Doctor;Manager;Very High;Outstanding;Better;09/07/2024;;189553,66
+973;Full-time;HR;Male;30-40;Master;Manager;High;Excellent;Bad;18/05/2024;;109403,89
+974;Contractor;HR;Female;40-50;Bachelor;HR Specialist;Low;Excellent;Bad;14/02/2024;;111005,19
+975;Full-time;Research & Development;Female;50-60;Below College;Research Scientist;Medium;Excellent;Better;08/08/2024;;68260,15
+976;Full-time;IT;Male;20-30;Below College;Sales Executive;Very High;Excellent;Best;21/05/2024;;124703,64
+977;Contractor;HR;Male;50-60;Bachelor;Research Scientist;Low;Excellent;Best;02/04/2024;;137118,94
+978;Contractor;IT;Female;Below 20;Below College;Finance Director;Very High;Low;Bad;03/02/2024;;71976,69
+979;Contractor;Marketing;Male;50-60;Doctor;Research Scientist;Medium;Outstanding;Bad;13/04/2024;;84313,21
+980;Full-time;HR;Male;30-40;College;Manager;Very High;Low;Better;06/06/2024;;63318,24
+981;Contractor;Finance;Male;30-40;College;IT Analyst;Medium;Outstanding;Better;18/04/2024;;161326,86
+982;Contractor;Marketing;Other;60+;College;Manager;Very High;Good;Good;03/11/2024;;89145,72
+983;Full-time;Research & Development;Female;50-60;Master;Research Scientist;Medium;Low;Better;11/08/2024;;179845,47
+984;Full-time;Sales;Female;20-30;Below College;HR Specialist;Very High;Low;Bad;18/08/2024;;186201,07
+985;Full-time;Marketing;Female;30-40;Below College;HR Specialist;Very High;Good;Best;27/01/2024;;104941,43
+986;Full-time;Marketing;Female;Below 20;Master;Manager;Medium;Excellent;Better;28/07/2024;;107330,75
+987;Contractor;Finance;Male;60+;Master;Finance Director;Medium;Low;Better;23/12/2024;;78887,68
+988;Contractor;HR;Male;30-40;Below College;IT Analyst;Very High;Low;Best;18/01/2024;;113511,83
+989;Full-time;IT;Female;50-60;Below College;HR Specialist;High;Low;Better;07/01/2024;;121093,6
+990;Full-time;IT;Other;Below 20;Doctor;IT Analyst;Very High;Outstanding;Better;14/02/2024;;187082,67
+991;Full-time;Research & Development;Male;40-50;Below College;HR Specialist;Low;Low;Better;11/02/2024;;78445,95
+992;Full-time;Finance;Female;30-40;College;Sales Executive;Medium;Good;Best;17/09/2024;;116820,16
+993;Contractor;Sales;Male;50-60;Doctor;IT Analyst;Very High;Excellent;Bad;10/07/2021;;179115,92
+994;Contractor;Finance;Female;50-60;College;Sales Executive;Low;Outstanding;Good;06/09/2024;;110604,45
+995;Contractor;HR;Other;Below 20;Doctor;Finance Director;High;Excellent;Better;01/12/2024;;104376,11
+996;Contractor;Marketing;Male;60+;Bachelor;HR Specialist;Low;Low;Best;21/10/2024;;61704
+997;Full-time;IT;Female;50-60;Master;Research Scientist;Medium;Excellent;Best;16/07/2024;;122466,58
+998;Contractor;Research & Development;Male;50-60;Master;Manager;Low;Good;Bad;10/12/2024;;120216,92
+999;Full-time;Sales;Female;Below 20;Doctor;Finance Director;Medium;Low;Bad;23/06/2024;;104793,84
+1000;Full-time;Research & Development;Male;20-30;College;Manager;Low;Low;Better;22/01/2024;;117567,66
